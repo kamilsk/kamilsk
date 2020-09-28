@@ -17,8 +17,6 @@
 - 🔭 My scope of work is [here](https://miro.grsm.io/my-scope-of-work).
 - 🔬 [The codebase](https://airtable.com/shrHGwgmpQ6NLm2kM) I'm investigating.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilsk)](https://github.com/kamilsk)
-
 If you find my work useful, it will be great to send me a thank you or a coffee cup!
 
 - ☕️ [️buymeacoffee.com/kamilsk](https://www.buymeacoffee.com/kamilsk)
