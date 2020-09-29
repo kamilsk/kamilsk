@@ -1,7 +1,6 @@
 # Hi, I'm Kamil 👋
 
-- Software engineer turned engineering manager.
-- Team lead at [@Avito](https://github.com/avito-tech).
+- A senior engineer and team lead at [@Avito](https://github.com/avito-tech).
 - Open Source enthusiast and creator of [@OctoLab](https://github.com/octolab).
 
 If you find my work useful, feel free to [buy me a coffee](https://www.buymeacoffee.com/kamilsk) ☕
