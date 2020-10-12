@@ -5,6 +5,11 @@
 
 If you find my work useful, feel free to [buy me a coffee](https://www.buymeacoffee.com/kamilsk) ☕
 
+## Work in progress
+
+- 📅 [My immediate plans](https://www.notion.so/octolab/94c50944eac14cb99fe67b6790472af0?v=5949ebf58e1a4bdaadac8424508164c4&r=0b753cbf767346f5a6fd51194829a2f3).
+- 💡 [My ideas and working prototypes](https://www.notion.so/octolab/33715348cc114ea79dd350a25d16e0b0?v=b90a1074ff8b4f43bc7dc449a959fdb5&r=0b753cbf767346f5a6fd51194829a2f3).
+
 ## Contact
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/kamilsk) or follow me on [GitHub](https://github.com/kamilsk).
