@@ -1,6 +1,6 @@
 # Hi, I'm Kamil 👋
 
-- A senior engineer and team lead at [@Avito](https://github.com/avito-tech).
+- A senior engineer, team lead and mentor at [@Avito](https://github.com/avito-tech).
 - Open Source enthusiast and creator of [@OctoLab](https://github.com/octolab).
 
 ## Work in progress
