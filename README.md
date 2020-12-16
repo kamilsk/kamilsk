@@ -17,5 +17,4 @@ If you find my work useful, feel free to [buy me a coffee](https://www.buymeacof
 ## Contact
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/kamilsk) or follow me on [GitHub](https://github.com/kamilsk).
-
-![Page views](https://komarev.com/ghpvc/?username=kamilsk)
+<img alt="profile views" align="right" src="https://komarev.com/ghpvc/?username=kamilsk&label=views&color=grey"/>
