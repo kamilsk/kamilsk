@@ -1,6 +1,6 @@
 # Hi, I'm Kamil 👋
 
-<img align="right" src="https://raw.githubusercontent.com/kamilsk/.github/master/.static/octopus.png" width="450"/>
+<img align="right" src="https://raw.githubusercontent.com/kamilsk/.github/master/.static/octopus.png" width="350"/>
 
 - A senior engineer, team lead and mentor at [@Avito](https://github.com/avito-tech).
 - Open Source enthusiast and creator of [@OctoLab](https://github.com/octolab).
