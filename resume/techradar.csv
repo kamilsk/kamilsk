@@ -1,0 +1,42 @@
+name,ring,quadrant,isNew,description
+Go 1.x,adopt,Languages & Frameworks,FALSE,https://golang.org/
+PHP 7.x,adopt,Languages & Frameworks,FALSE,https://www.php.net/
+gRPC,trial,Languages & Frameworks,FALSE,https://grpc.io/
+Protobuf,trial,Languages & Frameworks,FALSE,https://developers.google.com/protocol-buffers
+GraphQL,assess,Languages & Frameworks,TRUE,https://graphql.org/
+Haskell,assess,Languages & Frameworks,TRUE,https://www.haskell.org/
+Laravel,assess,Languages & Frameworks,TRUE,https://laravel.com/
+PHP 8.x,assess,Languages & Frameworks,TRUE,https://www.php.net/
+Rust,assess,Languages & Frameworks,TRUE,https://www.rust-lang.org/
+Symfony,assess,Languages & Frameworks,TRUE,https://symfony.com/
+Java,hold,Languages & Frameworks,FALSE,https://www.java.com/
+OpenAPI,hold,Languages & Frameworks,FALSE,https://www.openapis.org/
+Python,hold,Languages & Frameworks,FALSE,https://www.python.org/
+PostgreSQL,adopt,Data Management,FALSE,https://www.postgresql.org/
+Redis,adopt,Data Management,FALSE,https://redislabs.com/
+RabbitMQ,trial,Data Management,FALSE,https://www.rabbitmq.com/
+ClickHouse,assess,Data Management,TRUE,https://clickhouse.tech/
+Kafka,assess,Data Management,TRUE,https://kafka.apache.org/
+MySQL,hold,Data Management,FALSE,https://www.mysql.com/
+Percona,hold,Data Management,FALSE,https://www.percona.com/
+Docker,adopt,Instrumentation,FALSE,https://www.docker.com/
+Ansible,trial,Instrumentation,FALSE,https://www.ansible.com/
+Grafana,assess,Instrumentation,FALSE,https://grafana.com/
+Jaeger,assess,Instrumentation,FALSE,https://www.jaegertracing.io/
+Kubernetes,assess,Instrumentation,FALSE,https://kubernetes.io/
+OpenTelemetry,assess,Instrumentation,TRUE,https://opentelemetry.io/
+Prometheus,assess,Instrumentation,TRUE,https://prometheus.io/
+Sentry,assess,Instrumentation,FALSE,https://sentry.io/
+OpenTracing,hold,Instrumentation,FALSE,https://opentracing.io/
+A/B Testing,adopt,Techniques,FALSE,https://en.wikipedia.org/wiki/A/B_testing
+Feature Toggling,adopt,Techniques,FALSE,https://en.wikipedia.org/wiki/Feature_toggle
+Infrastructure as Code,adopt,Techniques,FALSE,https://en.wikipedia.org/wiki/Infrastructure_as_code
+Scrum,adopt,Techniques,FALSE,https://en.wikipedia.org/wiki/Scrum_(software_development)
+Zero Bug Policy,adopt,Techniques,FALSE,https://www.infoq.com/articles/0-bugs-policy/
+Agile Testing,trial,Techniques,FALSE,https://en.wikipedia.org/wiki/Agile_testing
+Graceful Degradation,trial,Techniques,FALSE,https://en.wikipedia.org/wiki/Fault_tolerance
+Chaos Engineering,assess,Techniques,TRUE,https://en.wikipedia.org/wiki/Chaos_engineering
+DevOps,assess,Techniques,TRUE,https://en.wikipedia.org/wiki/DevOps
+Kanban,assess,Techniques,TRUE,https://en.wikipedia.org/wiki/Kanban_(development)
+Progressive Enhancement,assess,Techniques,TRUE,https://en.wikipedia.org/wiki/Progressive_enhancement
+Site Reliability Engineering,assess,Techniques,TRUE,https://en.wikipedia.org/wiki/Site_reliability_engineering
