@@ -1,6 +1,6 @@
-# Open Mind
-
-Experiments with open ideas and notes...
+> # 🧠 Open Mind
+>
+> My experimental ideas and notes.
 
 ## 🤼‍♂️ How to
 
