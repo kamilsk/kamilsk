@@ -1,4 +1,5 @@
 # Repository Metadata
+#ru #github #repository #metadata
 
 ### Задача
 
@@ -7,7 +8,7 @@
 ### Мотивация
 
 При клонировании репозитория мне не хватает некоторых данных о нём,
-например, если у репозитория есть зеркала для резервирования,
+например, если у репозитория есть зеркала для резервного хранения,
 то непонятно откуда эту информацию подтягивать.
 
 Репозиторий с зеркалом
@@ -40,12 +41,12 @@ null
 
 1. Хранить в корне файл `.metadata.yml`.
 
-    **pros**:
+   **pros**:
 
     - понятная зона ответственности
     - валидация синтаксиса в IDE/терминале
 
-    **cons**:
+   **cons**:
 
     - захламляет корень репозитория, в котором уже есть
         - `.gitattributes`
@@ -54,61 +55,61 @@ null
         - `.goreleaser.yml`
         - `.travis.yml`
     - неявная синхронизация данных: ссылка на основное зеркало доступно в виде badge,
-    а значит меняя его ссылку в `.metadata.yml` нужно не забыть обновить `README.md`
+      а значит меняя его ссылку в `.metadata.yml` нужно не забыть обновить `README.md`
 
-    Возможен вариант с шаблонизацией:
+   Возможен вариант с шаблонизацией: [[maintainer#maintainer render]]
 
-    ```bash
-    $ maintainer render README.tpl < .metadata.yml > README.md
-    ```
+   ```bash
+   $ maintainer render README.tpl < .metadata.yml > README.md
+   ```
 
-    Учитывая мою потребность в синхронизации примеров кода и документации,
-    этот вариант может быть предпочтительней.
+   Учитывая мою потребность в синхронизации примеров кода и документации,
+   этот вариант может быть предпочтительней.
 
 2. Хранить в **YFM** файла `README.md`.
 
-    > YFM (YAML front matter) is an optional section of valid YAML that is placed
-    > at the top of a page and is used for maintaining metadata for the page
-    > and its contents.
+   > YFM (YAML front matter) is an optional section of valid YAML that is placed
+   > at the top of a page and is used for maintaining metadata for the page
+   > and its contents.
 
     - [Hugo: Front Matter](https://gohugo.io/content-management/front-matter/).
     - [Jekyll: Front Matter](https://jekyllrb.com/docs/front-matter/).
 
-    **pros**:
+   **pros**:
 
     - содержимое файла можно получать средствами GitHub API
 
-        ```bash
-        $ curl -s https://api.github.com/repos/kamilsk/retry/readme \
-        | jq -r .content \
-        | base64 -d
-        ```
+       ```bash
+       $ curl -s https://api.github.com/repos/kamilsk/retry/readme \
+       | jq -r .content \
+       | base64 -d
+       ```
 
     - лежит рядом с badges, проще поддерживать консистентность
 
-    **cons**:
+   **cons**:
 
     - подмешивание в контекст документации
     - отображается при отрисовке страницы
 
-    Избежать отрисовки можно хаком
+   Избежать отрисовки можно хаком
 
-    ```yml
-    ---
-    repository: https://github.com/octomation/maintainer
-    revision: 2021-03-28
-    ---
-    ```
+   ```yml
+   ---
+   repository: https://github.com/octomation/maintainer
+   revision: 2021-03-28
+   ---
+   ```
 
-    ```markdown
-    <!---
-    repository: https://github.com/octomation/maintainer
-    revision: 2021-03-28
-    --->
-    ```
+   ```markdown
+   <!---
+   repository: https://github.com/octomation/maintainer
+   revision: 2021-03-28
+   --->
+   ```
 
-    Но тогда инструментарий при работе с **YFM** должен этот хак учитывать,
-    что усложняет поддержку такого решения.
+   Но тогда инструментарий при работе с **YFM** должен этот хак учитывать,
+   что усложняет поддержку такого решения.
 
 ### Полезные ссылки
 
