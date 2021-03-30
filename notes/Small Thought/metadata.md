@@ -1,5 +1,5 @@
 # Repository Metadata
-#ru #github #repository #metadata
+#ru #thought #github #repository #metadata #markdown
 
 ### Задача
 
@@ -8,8 +8,8 @@
 ### Мотивация
 
 При клонировании репозитория мне не хватает некоторых данных о нём,
-например, если у репозитория есть зеркала для резервного хранения,
-то непонятно откуда эту информацию подтягивать.
+например, если у репозитория есть зеркало для резервного хранения,
+то непонятно где эту информацию хранить и как её обрабатывать.
 
 Репозиторий с зеркалом
 
@@ -57,7 +57,7 @@ null
     - неявная синхронизация данных: ссылка на основное зеркало доступно в виде badge,
       а значит меняя его ссылку в `.metadata.yml` нужно не забыть обновить `README.md`
 
-   Возможен вариант с шаблонизацией: [[maintainer#maintainer render]]
+   Возможен вариант с шаблонизацией: [[maintainer#render]]
 
    ```bash
    $ maintainer render README.tpl < .metadata.yml > README.md
@@ -115,3 +115,5 @@ null
 
 - [Markdown Guide](https://www.markdownguide.org/).
 - [GitHub Flavored Markdown](https://github.github.com/gfm/).
+
+<p align="right">published with ❤️ for everyone</p>

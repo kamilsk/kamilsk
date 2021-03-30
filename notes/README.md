@@ -15,8 +15,8 @@
 - [👨‍🔧 Maintainer](Draft%20Design/maintainer.md)
 - [🧺 Stash](Draft%20Design/stash.md)
 
-### Small Thoughts
+### Small Thought
 
-- [Repository Metadata](Small%20Thoughts/metadata.md)
+- [Repository Metadata](Small%20Thought/metadata.md)
 
 <p align="right">made with ❤️ for everyone</p>
