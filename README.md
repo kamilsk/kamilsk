@@ -12,6 +12,10 @@
 - 💡 [Projects](https://www.notion.so/octolab/33715348cc114ea79dd350a25d16e0b0?v=b90a1074ff8b4f43bc7dc449a959fdb5&r=0b753cbf767346f5a6fd51194829a2f3).
 - 📅 [Upcoming plans](https://www.notion.so/octolab/94c50944eac14cb99fe67b6790472af0?v=5949ebf58e1a4bdaadac8424508164c4&r=0b753cbf767346f5a6fd51194829a2f3).
 
+### Latest notes
+
+- **2021-04-03** - [Repository Metadata](https://github.com/kamilsk/kamilsk/blob/master/notes/Small%20Thought/metadata.md)
+
 ### Latest releases
 
 - **2021-01-07** - 🚧 [breaker, v1.2.0](https://github.com/kamilsk/breaker/releases/tag/v1.2.0)
