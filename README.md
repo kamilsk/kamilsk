@@ -14,7 +14,8 @@
 
 ### Latest notes
 
-- **2021-04-03** - [Repository Metadata](https://github.com/kamilsk/kamilsk/blob/master/notes/Small%20Thought/metadata.md)
+- **2021-04-05** - [Precompiled Binaries](notes/Small%20Thought/binaries.md)
+- **2021-04-03** - [Repository Metadata](notes/Small%20Thought/metadata.md)
 
 ### Latest releases
 

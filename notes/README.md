@@ -12,11 +12,12 @@
 
 ### Draft Design
 
-- [👨‍🔧 Maintainer](Draft%20Design/maintainer.md)
-- [🧺 Stash](Draft%20Design/stash.md)
+- [👨‍🔧 Maintainer](Draft%20Design/maintainer.md).
+- [🧺 Stash](Draft%20Design/stash.md).
 
 ### Small Thought
 
-- [Repository Metadata](Small%20Thought/metadata.md)
+- [Precompiled Binaries](Small%20Thought/binaries.md).
+- [Repository Metadata](Small%20Thought/metadata.md).
 
-<p align="right">made with ❤️ for everyone</p>
+<p align="right">published with ❤️ for everyone</p>
