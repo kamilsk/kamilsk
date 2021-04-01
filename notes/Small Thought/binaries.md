@@ -52,9 +52,10 @@ go install github.com/kamilsk/egg@v0.0.16: github.com/kamilsk/egg@v0.0.16
    > root. It must be a prefix or an exact match of the package being
    > fetched with "go get". If it's not an exact match, another http
    > request is made at the prefix to verify the <meta> tags match.
+   >
+   >> [parseMetaGoImports][src.parseMetaGoImports]
 
-   См. [parseMetaGoImports][src.parseMetaGoImports]. Например, для `godoc`
-   они были расширены элементом [`go-source`][src.godoc.parseMeta].
+   Например, для `godoc` они были расширены элементом [`go-source`][src.godoc.parseMeta].
 
 ```html
 <meta name="go-import"
@@ -108,8 +109,10 @@ go install github.com/kamilsk/egg@v0.0.16: github.com/kamilsk/egg@v0.0.16
    > 	https://example.org/pkg/foo?go-get=1 (preferred)
    > 	http://example.org/pkg/foo?go-get=1  (fallback, only with -insecure)
    > ```
+   >
+   >> [urlForImportPath][src.urlForImportPath]
 
-   См. [urlForImportPath][src.urlForImportPath]. В качестве контекста
+   В качестве контекста
    нужно передавать заголовки `X-GOOS` и `X-GOARCH`, чтобы прокси понял,
    какой конкретно бинарник возвращать
 
