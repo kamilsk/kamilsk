@@ -58,25 +58,25 @@ go install github.com/kamilsk/egg@v0.0.16: github.com/kamilsk/egg@v0.0.16
    Например, для `godoc` они были расширены элементом [`go-source`][src.godoc.parseMeta]
    (см. [Source Code Links](https://github.com/golang/gddo/wiki/Source-Code-Links)).
 
-```html
-<meta name="go-import"
-      content="go.octolab.org/toolset/testit git https://github.com/octolab/testit">
-<meta name="go-source"
-      content="go.octolab.org/toolset/testit
-               https://github.com/octolab/testit
-               https://github.com/octolab/testit/tree/master{/dir}
-               https://github.com/octolab/testit/tree/master{/dir}/{file}#L{line}">
-```
+   ```html
+   <meta name="go-import"
+         content="go.octolab.org/toolset/testit git https://github.com/octolab/testit">
+   <meta name="go-source"
+         content="go.octolab.org/toolset/testit
+                  https://github.com/octolab/testit
+                  https://github.com/octolab/testit/tree/master{/dir}
+                  https://github.com/octolab/testit/tree/master{/dir}/{file}#L{line}">
+   ```
 
    Тогда решение может выглядеть следующим образом
 
-```html
-<meta name="go-import" content="...">
-<meta name="go-source" content="...">
-<meta name="go-binary"
-      content="https://github.com/octolab/testit/releases/download/{tag}/{os}-{arch}"
-      is="https://github.com/octolab/testit/releases/download/{tag}/checksums.txt">
-```
+   ```html
+   <meta name="go-import" content="...">
+   <meta name="go-source" content="...">
+   <meta name="go-binary"
+         content="https://github.com/octolab/testit/releases/download/{tag}/{os}-{arch}"
+         is="https://github.com/octolab/testit/releases/download/{tag}/checksums.txt">
+   ```
 
    Алгоритм:
 
@@ -116,17 +116,17 @@ go install github.com/kamilsk/egg@v0.0.16: github.com/kamilsk/egg@v0.0.16
    В качестве контекста нужно передавать заголовки `X-GOOS` и `X-GOARCH`,
    чтобы прокси понял, какой конкретно бинарник возвращать
 
-```bash
-$ curl -H 'X-GOOS: darwing' \
-       -H 'X-GOARCH: amd64' \
-       -H 'X-Intent: install' \
-       -H 'X-Version: v0.2.0' \
-       -IL https://go.octolab.org/toolset/testit?go-get=1
-HTTP/1.1 200 OK
-Content-Type: text/html; charset=utf-8
-X-Binary: https://download.octolab.org/testit/v0.2.0/darwing-amd64.gz
-X-Checksum: 3675623b43b9ebea381904ed8138d3d8ebb21f45b866ef0c4cdbbd09209c8118
-```
+   ```bash
+   $ curl -H 'X-GOOS: darwing' \
+          -H 'X-GOARCH: amd64' \
+          -H 'X-Intent: install' \
+          -H 'X-Version: v0.2.0' \
+          -IL https://go.octolab.org/toolset/testit?go-get=1
+   HTTP/1.1 200 OK
+   Content-Type: text/html; charset=utf-8
+   X-Binary: https://download.octolab.org/testit/v0.2.0/darwing-amd64.gz
+   X-Checksum: 3675623b43b9ebea381904ed8138d3d8ebb21f45b866ef0c4cdbbd09209c8118
+   ```
 
    Алгоритм:
 
