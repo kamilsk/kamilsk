@@ -14,6 +14,7 @@
 
 ### Latest notes
 
+- **2021-04-06** - [Abstract Module](notes/Small%20Thought/metamodule.md)
 - **2021-04-05** - [Precompiled Binaries](notes/Small%20Thought/binaries.md)
 - **2021-04-03** - [Repository Metadata](notes/Small%20Thought/metadata.md)
 

@@ -17,6 +17,7 @@
 
 ### Small Thought
 
+- [Abstract Module](Small%20Thought/metamodule.md).
 - [Precompiled Binaries](Small%20Thought/binaries.md).
 - [Repository Metadata](Small%20Thought/metadata.md).
 

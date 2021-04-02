@@ -39,7 +39,7 @@ go install github.com/kamilsk/egg@v0.0.16: github.com/kamilsk/egg@v0.0.16
 
 ## Возможные решения
 
-1. Расширить метаданные, используемые `go get`.
+1. **Расширить метаданные, используемые `go get`.**
 
    > If the import path is not a known code hosting site and also lacks
    > a version control qualifier, the go tool attempts to fetch the import
@@ -97,7 +97,7 @@ go install github.com/kamilsk/egg@v0.0.16: github.com/kamilsk/egg@v0.0.16
    Уменьшить влияние на сеть можно с помощью кеширования, тогда при попытке
    получить конкретную версию бинарника сперва будет проверяться локальный кеш.
 
-2. Реализовать кеширующий прокси.
+2. **Реализовать кеширующий прокси.**
 
    Для этого потребуется немного изменить протокол общения
 
@@ -156,7 +156,7 @@ $ egg install github.com/kamilsk/egg@v0.0.16
 - [GoReleaser][].
 - [GoDownloader][].
 - [GoBinaries][].
-- [webinstall.dev](https://webinstall.dev/).
+- [webinstall.dev][].
 
 <p align="right">published with ❤️ for everyone</p>
 
@@ -165,6 +165,7 @@ $ egg install github.com/kamilsk/egg@v0.0.16
 [GoReleaser]:              https://goreleaser.com/
 [Homebrew]:                https://brew.sh/
 [Snapcraft]:               https://snapcraft.io/
+[webinstall.dev]:          https://webinstall.dev/
 
 [src.parseMetaGoImports]:  https://github.com/golang/go/blob/9baddd3f21230c55f0ad2a10f5f20579dcf0a0bb/src/cmd/go/internal/vcs/discovery.go#L29-L86
 [src.urlForImportPath]:    https://github.com/golang/go/blob/9baddd3f21230c55f0ad2a10f5f20579dcf0a0bb/src/cmd/go/internal/vcs/vcs.go#L921-L938

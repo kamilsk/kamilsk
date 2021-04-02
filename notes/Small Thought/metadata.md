@@ -48,7 +48,7 @@ null
 
 ## Возможные решения
 
-1. Хранить в корне файл `.metadata.yml`.
+1. **Хранить в корне файл `.metadata.yml`.**
 
    **pros**:
 
@@ -75,7 +75,7 @@ null
    Учитывая мою потребность в синхронизации примеров кода и документации,
    этот вариант выглядит предпочтительней.
 
-2. Хранить в **YFM** файла `README.md`.
+2. **Хранить в YFM файла `README.md`.**
 
    > YFM (YAML front matter) is an optional section of valid YAML that is placed
    > at the top of a page and is used for maintaining metadata for the page
