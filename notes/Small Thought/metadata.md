@@ -122,6 +122,12 @@ null
 
 ## Полезные ссылки
 
+Прототип: [[maintainer#metadata]]
+
+```bash
+$ maintainer metadata git@github.com:kamilsk/dotfiles.git
+```
+
 - [Markdown Guide](https://www.markdownguide.org/).
 - [GitHub Flavored Markdown](https://github.github.com/gfm/).
 
