@@ -2,6 +2,8 @@
 
 # Обо мне
 
+Скоро тут будет много букв...
+
 # Рекомендации
 
 - [Anatoly Panov, Head of Engineering at Avito][panov]
@@ -51,7 +53,7 @@
 которых было порядка 15, с максимальным охватом участников в этот процесс
 и не требующим моего дальнейшего внимания. Команда успешно справлялась с
 соблюдением [SLA](https://en.wikipedia.org/wiki/Service-level_agreement),
-а также уменьшило своё участие в крупных инцидентах в компании.
+а также уменьшила своё участие в крупных инцидентах в компании.
 
 В роли **руководителя группы разработки** управлял кросс-функциональной
 feature-командой, состоящей из: frontend, backend, ios, android, qa,
@@ -71,15 +73,14 @@ product owner. Был scrum master, отвечал за процессы в ко
 сложные комплексные проекты, такие как [Маркетплейс](https://www.avito.ru/marketplace).
 
 <details>
-<summary>👀_Больше деталей</summary>
-
+<summary>👀_Больше деталей</summary><br>
 Был одним из тех, кто участвовал в запуске MVP менторской программы в Авито -
 Avito.Compass. За это время смог побыть в роли ментора для пяти инженеров из разных
 юнитов от junior до lead. Помогал ребятам в вопросах личной эффективности и
 backend-разработке.
 
 Организовал команду для участия на внутреннем хакатоне, где мы за ночь сделали
-рабочий прототип сервиса Авито.Карма для внутреннего портала. Это был мой первый
+рабочий прототип сервиса Avito.Karma для внутреннего портала. Это был мой первый
 опыт участия в подобном мероприятии.
 
 Активно взаимодействовал с лидами других юнитов, в особенности Платформы и Архитектуры,
@@ -89,19 +90,19 @@ backend-разработке.
 
 Развивал open source направление, которое находило применение в наших проектах.
 
-**Модули**:
+**Модули:**
 
 - [tracer](https://github.com/kamilsk/tracer)
 
-**Обучение**:
+**Обучение:**
 
 - [workshops](https://github.com/kamilsk/workshops)
 
-**Патчи**:
+**Патчи:**
 
 - [goimports](https://github.com/kamilsk/go-tools/releases/tag/goimports)
 
-**Тулинг**:
+**Тулинг:**
 
 - [egg](https://github.com/kamilsk/egg)
 - [forward](https://github.com/kamilsk/forward)
@@ -109,7 +110,7 @@ backend-разработке.
 - [lift](https://github.com/kamilsk/lift)
 - [testit](https://github.com/octolab/testit)
 
-**В черновиках**:
+**В черновиках:**
 
 - [brief](https://github.com/kamilsk/bridge)
 - [genome](https://github.com/octolab/genome)
@@ -128,7 +129,7 @@ backend-разработке.
 work in progress...
 
 <details>
-<summary>👀_Больше деталей</summary>
+<summary>👀_Больше деталей</summary><br>
 
 work in progress...
 </details>
@@ -143,7 +144,7 @@ work in progress...
 work in progress...
 
 <details>
-<summary>👀_Больше деталей</summary>
+<summary>👀_Больше деталей</summary><br>
 
 work in progress...
 </details>
@@ -157,7 +158,7 @@ work in progress...
 work in progress...
 
 <details>
-<summary>👀_Больше деталей</summary>
+<summary>👀_Больше деталей</summary><br>
 
 work in progress...
 </details>
@@ -172,7 +173,7 @@ work in progress...
 work in progress...
 
 <details>
-<summary>👀_Больше деталей</summary>
+<summary>👀_Больше деталей</summary><br>
 
 work in progress...
 </details>
@@ -186,7 +187,7 @@ work in progress...
 work in progress...
 
 <details>
-<summary>👀_Больше деталей</summary>
+<summary>👀_Больше деталей</summary><br>
 
 work in progress...
 </details>
@@ -200,7 +201,7 @@ work in progress...
 work in progress... [ISBIZ](https://isbiz-agency.ru), [OpenColour](https://openco.ru).
 
 <details>
-<summary>👀_Больше деталей</summary>
+<summary>👀_Больше деталей</summary><br>
 
 work in progress...
 </details>
