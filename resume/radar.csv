@@ -1,0 +1,21 @@
+name,ring,quadrant,isNew,description
+
+Go 1.x,Adopt,Languages & Frameworks,false,https://golang.org/
+PHP 7.x,Adopt,Languages & Frameworks,false,https://www.php.net/
+PHP 8.x,Assess,Languages & Frameworks,true,https://www.php.net/
+Protobuf,Trial,Languages & Frameworks,false,https://developers.google.com/protocol-buffers
+OpenAPI,Hold,Languages & Frameworks,false,https://www.openapis.org/
+
+Clickhouse,Assess,Data Management,true,http://clickhouse.tech/
+Kafka,Assess,Data Management,true,https://kafka.apache.org/
+MySQL,Hold,Data Management,false,https://www.mysql.com/
+Percona,Hold,Data Management,false,https://www.percona.com/
+PostgreSQL,Adopt,Data Management,false,https://www.postgresql.org/
+RabbitMQ,Adopt,Data Management,false,https://www.rabbitmq.com/
+Redis,Adopt,Data Management,false,https://redislabs.com/
+
+Ansible,Trial,Instrumentation,false,https://www.ansible.com/
+Docker,Adopt,Instrumentation,false,https://www.docker.com/
+Kubernetes,Trial,Instrumentation,false,https://kubernetes.io/
+
+Infrastructure as Code,Adopt,Techniques,false,https://en.wikipedia.org/wiki/Infrastructure_as_code

@@ -27,6 +27,8 @@
 - **Message brokers:** RabbitMQ, Kafka
 - **Operations:** Kubernetes, Docker, Ansible
 
+[На радаре][techradar].
+
 # Опыт работы
 
 ## [Avito](https://avito.tech)
@@ -73,7 +75,7 @@ product owner. Был scrum master, отвечал за процессы в ко
 сложные комплексные проекты, такие как [Маркетплейс](https://www.avito.ru/marketplace).
 
 <details>
-<summary>👀_Больше деталей</summary><br>
+<summary>👀_Больше деталей</summary><p role="separator"></p>
 Был одним из тех, кто участвовал в запуске MVP менторской программы в Авито -
 Avito.Compass. За это время смог побыть в роли ментора для пяти инженеров из разных
 юнитов от junior до lead. Помогал ребятам в вопросах личной эффективности и
@@ -129,7 +131,7 @@ backend-разработке.
 work in progress...
 
 <details>
-<summary>👀_Больше деталей</summary><br>
+<summary>👀_Больше деталей</summary><p role="separator"></p>
 
 work in progress...
 </details>
@@ -144,7 +146,7 @@ work in progress...
 work in progress...
 
 <details>
-<summary>👀_Больше деталей</summary><br>
+<summary>👀_Больше деталей</summary><p role="separator"></p>
 
 work in progress...
 </details>
@@ -158,7 +160,7 @@ work in progress...
 work in progress...
 
 <details>
-<summary>👀_Больше деталей</summary><br>
+<summary>👀_Больше деталей</summary><p role="separator"></p>
 
 work in progress...
 </details>
@@ -173,7 +175,7 @@ work in progress...
 work in progress...
 
 <details>
-<summary>👀_Больше деталей</summary><br>
+<summary>👀_Больше деталей</summary><p role="separator"></p>
 
 work in progress...
 </details>
@@ -187,7 +189,7 @@ work in progress...
 work in progress...
 
 <details>
-<summary>👀_Больше деталей</summary><br>
+<summary>👀_Больше деталей</summary><p role="separator"></p>
 
 work in progress...
 </details>
@@ -201,7 +203,7 @@ work in progress...
 work in progress... [ISBIZ](https://isbiz-agency.ru), [OpenColour](https://openco.ru).
 
 <details>
-<summary>👀_Больше деталей</summary><br>
+<summary>👀_Больше деталей</summary><p role="separator"></p>
 
 work in progress...
 </details>
@@ -219,3 +221,5 @@ work in progress...
 [shcheglov]:    https://www.linkedin.com/in/arthurshcheglov/
 [granschikov]:  https://www.linkedin.com/in/igor-granschikov/
 [khodakov]:     https://www.linkedin.com/in/dmitriy-khodakov-20910374/
+
+[techradar]:    https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fkamilsk%2Fkamilsk%2Fmaster%2Fresume%2Fradar.csv
