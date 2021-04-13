@@ -9,25 +9,25 @@
 - [Anatoly Panov, Head of Engineering at Avito][panov]
 - [Dmitriy Khodakov, Head of Engineering at Avito][khodakov]
 - [Maxim Lanin, Tech Unit Lead at Avito][lanin]
-- [Arthur Shcheglov, Tech Unit Lead at Avito][shcheglov]
-- [Igor Granschikov, Tech Unit Lead at Avito][granschikov]
+- [Alexey Fomichev, Chief Technical Officer at Leads][fomichev]
+- [Dmitry Gorshkov, Chief Technical Officer at QWEP][gorshkov]
 
 # Ключевые навыки
 
-- Разработка на Go, PHP
 - Управление командой
-- Автоматизация процессов
 - Проектирование систем
+- Автоматизация процессов
+- Разработка на Go, PHP
 
 ## Стек
 
-- **Languages:** Go, PHP
-- **IDL:** Protobuf, OpenAPI
-- **Databases:** PostgreSQL, MySQL/Percona, Redis, Clickhouse
-- **Message brokers:** RabbitMQ, Kafka
-- **Operations:** Kubernetes, Docker, Ansible
+- **Languages**: Go, PHP
+- **IDL**: Protobuf, OpenAPI
+- **Databases**: PostgreSQL, Redis, Clickhouse
+- **Message brokers**: RabbitMQ, Kafka
+- **Operations**: Docker, Kubernetes, Ansible
 
-[На радаре][techradar].
+Больше только на моём [**техрадаре**][techradar].
 
 # Опыт работы
 
@@ -167,13 +167,28 @@ work in progress...
 |:--------|:--------|:---------|:----------|
 | 06.2015 | 08.2015 | 3 months | developer |
 
-work in progress...
+Мне нужно было перенять экспертизу по разработке платформы [Cutwise](https://cutwise.com)
+у внешней команды на аутсорсе, чтобы компания смогла в перспективе отказаться
+от её услуг и полностью сосредоточила бы всю разработку у себя in-house, т.к.
+приняла стратегическое решение развивать это направление.
 
-<details>
-<summary>👀_Больше деталей</summary><p role="separator"></p>
+Так сложилось, что через пару месяцев я получил предложение возглавить веб-разработку
+в **Enter**, на которое я конечно же согласился, т.к. для меня это был совершенно
+иной уровень ответственности и радикальный выход из зоны комфорта. Поэтому следующий
+месяц я посвятил поиску подходящих кандидатов себе на замену, с чем я успешно справился.
 
-work in progress...
-</details>
+<!--<details>
+<summary>🤔_Рефлексия</summary><p role="separator"></p>
+Мне очень повезло вновь пересечься со своими старыми знакомыми, которые как раз
+на тот момент были в поиске работы. Как оказалось, мир IT очень тесный, а ребята
+в итоге справились с исходной задачей просто на отлично и каждый из нас на выходе
+получил только плюсы от такого стечения обстоятельств, поэтому я рад такому исходу.
+
+С тех пор я стараюсь беречь полезные контакты, ведь никто не знает, когда мы
+сможем друг другу пригодиться.
+</details>-->
+
+<a id="enter"></a>
 
 ## [Enter Связной](https://ru.wikipedia.org/wiki/Enter_Связной)
 
@@ -190,46 +205,83 @@ work in progress...
 work in progress...
 </details>
 
-## [Лидс](https://leads.su)
+## [Leads](https://leads.su)
 
 | start   | end     | duration  | role          |
 |:--------|:--------|:----------|:--------------|
 | 04.2013 | 11.2013 | 8 months  | web developer |
 
-work in progress...
+В составе небольшой команды из четырёх человек я занимался разработкой собственной
+партнёрской платформы на фреймворке [Yii 1.x](https://www.yiiframework.com).
+Данная платформа должна была заменить платное решение, используемое в компании -
+[HasOffers](https://www.hasoffers.com); иметь те же возможности, чтобы переход
+партнёров был безболезненным; обладать достаточной гибкостью, чтобы можно было
+быстро обрастать новыми свойствами, дающими конкурентное преимущество на достаточно
+перенасыщенном рынке. Задача осложнялась тем, что мы были сильно ограниченны
+временными рамками, обусловленными наступлением очередного срока продления
+коммерческой лицензии на следующий год эксплуатации: deadline - 4 месяца. 😱
 
-<details>
-<summary>👀_Больше деталей</summary><p role="separator"></p>
+Как результат, проект был успешно реализован и запущен в заявленные сроки, компания
+увеличила свободный денежный поток за счёт уменьшения выплат по своим обязательствам
+и получила готовое решение, которое можно было развивать in-house с учётом своих
+бизнес-потребностей.
 
-work in progress...
-</details>
+<!--<details>
+<summary>🤔_Рефлексия</summary><p role="separator"></p>
+Я получил очень хороший опыт коммерческой разработки, научился планировать свою
+работу, а также осознал в каком именно направлении хочу развиваться дальше.
+</details>-->
+
+<a id="webmaster"></a>
 
 ## Начало карьеры
 
-| start   | end     | duration   |
-|:--------|:--------|:-----------|
-| 01.2011 | 04.2013 | ~2.5 years |
+| start   | end     | duration | role      |
+|:--------|:--------|:---------|:----------|
+| 09.2010 | 04.2013 | ~3 years | webmaster |
 
-work in progress... [ISBIZ](https://isbiz-agency.ru), [OpenColour](https://openco.ru).
+Мой путь в IT начался с работы веб-мастером в крошечном интернет-агентстве
+[ISBIZ](https://isbiz-agency.ru), где я занимался вёрсткой небольших сайтов,
+немного программировал на **PHP** и **ActionScript**. Параллельно с этим
+помогал моему однокашнику с его веб-студией [OpenColour](https://openco.ru),
+где выполнял различные задачи по разработке веб-сайтов и веб-приложений.
 
-<details>
-<summary>👀_Больше деталей</summary><p role="separator"></p>
-
-work in progress...
-</details>
+<!--<details>
+<summary>🤔_Рефлексия</summary><p role="separator"></p>
+Не лучшее решение, которое я принял в своей жизни. Оно очень негативно
+отразилось на моей успеваемости в Бауманке, подпортило мне здоровье,
+и создало иллюзию успешности, ведь "у меня был какой-никакой источник
+дохода, а также сопричастность к хоть и мелкому, но своему бизнесу".
+Оглядываясь назад, я понимаю, что эта часть моего пути была "бегом с
+утяжелением", а не трамплином в мир серьёзной разработки.
+</details>-->
 
 # Образование
 
-...
+## [МГТУ им. Н.Э. Баумана](https://bmstu.ru)
+
+- **Уровень**: Высшее
+- **Год окончания**: 2013
+- **Факультет**: [Робототехника и комплексная автоматизация](http://rk.bmstu.ru)
+- **Специализация**: [Подъемно-транспортные, строительные,
+  дорожные машины и оборудование](http://rk4.bmstu.ru)
 
 # Курсы
 
 - их много, и я добавлю их с самым низким приоритетом...
 
-[panov]:        https://www.linkedin.com/in/anatoly-panov-6b75b613/
-[lanin]:        https://www.linkedin.com/in/maxim-lanin-2920815a/
-[shcheglov]:    https://www.linkedin.com/in/arthurshcheglov/
-[granschikov]:  https://www.linkedin.com/in/igor-granschikov/
-[khodakov]:     https://www.linkedin.com/in/dmitriy-khodakov-20910374/
+[panov]:                https://www.linkedin.com/in/anatoly-panov-6b75b613/
+[lanin]:                https://www.linkedin.com/in/maxim-lanin-2920815a/
+[khodakov]:             https://www.linkedin.com/in/dmitriy-khodakov-20910374/
+[fomichev]:             https://www.linkedin.com/in/алексей-фомичев-043b94167/
+[gorshkov]:             https://t.me/gorshkovdn
 
-[techradar]:    https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fkamilsk%2Fkamilsk%2Fmaster%2Fresume%2Fradar.csv
+[techradar]:            https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fkamilsk%2Fkamilsk%2Fmaster%2Fresume%2Ftechradar.csv
+
+[work-as-webmaster]:    https://bit.ly/kamilsk-as-webmaster
+[work-at-avito]:        https://bit.ly/kamilsk-and-avito
+[work-at-enter]:        https://bit.ly/kamilsk-and-enter
+[work-at-lazada]:       https://bit.ly/kamilsk-and-lazada
+[work-at-leads]:        https://bit.ly/kamilsk-and-leads
+[work-at-octonus]:      https://bit.ly/kamilsk-and-octonus
+[work-at-qwep]:         https://bit.ly/kamilsk-and-qwep

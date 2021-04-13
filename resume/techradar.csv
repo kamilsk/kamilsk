@@ -32,8 +32,9 @@ A/B Testing,adopt,Techniques,FALSE,https://en.wikipedia.org/wiki/A/B_testing
 Feature Toggling,adopt,Techniques,FALSE,https://en.wikipedia.org/wiki/Feature_toggle
 Infrastructure as Code,adopt,Techniques,FALSE,https://en.wikipedia.org/wiki/Infrastructure_as_code
 Scrum,adopt,Techniques,FALSE,https://en.wikipedia.org/wiki/Scrum_(software_development)
-Zero Bug Policy,adopt,Techniques,FALSE,
+Zero Bug Policy,adopt,Techniques,FALSE,https://www.infoq.com/articles/0-bugs-policy/
 Agile Testing,trial,Techniques,FALSE,https://en.wikipedia.org/wiki/Agile_testing
+Graceful Degradation,trial,Techniques,FALSE,https://en.wikipedia.org/wiki/Fault_tolerance
 Chaos Engineering,assess,Techniques,TRUE,https://en.wikipedia.org/wiki/Chaos_engineering
 DevOps,assess,Techniques,TRUE,https://en.wikipedia.org/wiki/DevOps
 Kanban,assess,Techniques,TRUE,https://en.wikipedia.org/wiki/Kanban_(development)
