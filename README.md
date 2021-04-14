@@ -12,11 +12,19 @@
 - 💡 [Projects](https://www.notion.so/octolab/33715348cc114ea79dd350a25d16e0b0?v=b90a1074ff8b4f43bc7dc449a959fdb5&r=0b753cbf767346f5a6fd51194829a2f3).
 - 📅 [Upcoming plans](https://www.notion.so/octolab/94c50944eac14cb99fe67b6790472af0?v=5949ebf58e1a4bdaadac8424508164c4&r=0b753cbf767346f5a6fd51194829a2f3).
 
+### Latest contributions
+
+- [Try to simplify goimports](https://github.com/golang/tools/pull/308).
+- [Add looppointer to GolangCI Lint](https://github.com/golangci/golangci-lint/pull/1924).
+- [Add homebrew-tap recipe to Yaegi](https://github.com/traefik/yaegi/pull/786).
+- [Add retry package to Goreleaser](https://github.com/goreleaser/goreleaser/pull/905).
+- [Try to extend goimports](https://github.com/golang/tools/pull/68).
+
 ### Latest notes
 
-- **2021-04-06** - [Abstract Module](notes/Small%20Thought/metamodule.md)
-- **2021-04-05** - [Precompiled Binaries](notes/Small%20Thought/binaries.md)
-- **2021-04-03** - [Repository Metadata](notes/Small%20Thought/metadata.md)
+- **2021-04-06** - [Abstract Module](notes/Small%20Thought/metamodule.md).
+- **2021-04-05** - [Precompiled Binaries](notes/Small%20Thought/binaries.md).
+- **2021-04-03** - [Repository Metadata](notes/Small%20Thought/metadata.md).
 
 ### Latest releases
 
