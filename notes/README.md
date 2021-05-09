@@ -1,4 +1,4 @@
-> # 🧠 Open Mind
+> # 🧠 Open mind
 >
 > My experimental ideas and notes.
 

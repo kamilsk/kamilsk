@@ -9,9 +9,9 @@
 ## Work in progress
 
 - 🗺 [Big picture][].
-- 🧠 [Open Mind](notes).
+- 🧠 [Open mind](notes).
 - 💡 [Projects][].
-- 📡 [Technology Radar][].
+- 📡 [Technology radar][].
 - 📅 [Upcoming plans][].
 
 ### Latest contributions
