@@ -16,11 +16,15 @@
 
 ### Latest contributions
 
-- [Try to simplify goimports](https://github.com/golang/tools/pull/308).
-- [Add looppointer to GolangCI Lint](https://github.com/golangci/golangci-lint/pull/1924).
+#### Custom forks
+
+- [goimports](https://github.com/kamilsk/go-tools/releases/tag/goimports).
+- [golangci-lint](https://github.com/kamilsk/golangci-lint/releases/tag/looppointer).
+
+#### Pull requests
+
 - [Add homebrew-tap recipe to Yaegi](https://github.com/traefik/yaegi/pull/786).
 - [Add retry package to Goreleaser](https://github.com/goreleaser/goreleaser/pull/905).
-- [Try to extend goimports](https://github.com/golang/tools/pull/68).
 
 ### Latest notes
 
