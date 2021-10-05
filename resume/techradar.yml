@@ -1,0 +1,338 @@
+version: 1.0
+docs: |
+  # What is the Tech Radar?
+
+  My personal Tech Radar is a list of technologies, complemented by an assessment
+  result, called ring assignment. I use four rings with the following semantics:
+    ADOPT — Technologies I have high confidence in to serve my purpose,
+      also in large scale. Technologies with a usage culture in my
+      production environment, low risk and recommended to be widely used.
+    TRIAL — Technologies that I have seen work with success in project work
+      to solve a real problem; first serious usage experience that confirm
+      benefits and can uncover limitations. TRIAL technologies are slightly
+      more risky.
+    ASSESS — Technologies that are promising and have clear potential
+      value-add for me; technologies worth to invest some research and
+      prototyping efforts in to see if it has impact. ASSESS technologies
+      have higher risks; they are often brand new and highly unproven
+      in my experience.
+    HOLD — Technologies not recommended to be used for new projects.
+      Technologies that I think are not (yet) worth to (further) invest in.
+      HOLD technologies should not be used for new projects, but usually
+      can be continued for existing projects.
+
+  # What is the purpose?
+
+  The Tech Radar is a tool to inspire and support by me to pick the best
+  technologies for new projects; it provides a platform to share knowledge
+  and experience in technologies, to reflect on technology decisions and
+  continuously evolve my technology landscape. Based on the pioneering work
+  of ThoughtWorks, my Tech Radar sets out the changes in technologies that
+  are interesting in software development — changes that I think should
+  pay attention to and use in my projects.
+
+  # How do I maintain it?
+
+  Coming soon I will describe how I do that. Stay tuned!
+scope:
+  - name: Go
+    ring: adopt
+    quadrant: Languages & Frameworks
+    isNew: false
+    description: |
+      https://go.dev/
+
+  - name: PHP
+    ring: adopt
+    quadrant: Languages & Frameworks
+    isNew: false
+    description: |
+      https://www.php.net/
+
+  - name: OpenAPI
+    ring: adopt
+    quadrant: Languages & Frameworks
+    isNew: false
+    description: |
+      https://www.openapis.org/
+
+  - name: TypeScript
+    ring: trial
+    quadrant: Languages & Frameworks
+    isNew: true
+    description: |
+      https://www.typescriptlang.org/
+
+  - name: gRPC
+    ring: trial
+    quadrant: Languages & Frameworks
+    isNew: false
+    description: |
+      https://grpc.io/
+
+  - name: Protobuf
+    ring: trial
+    quadrant: Languages & Frameworks
+    isNew: false
+    description: |
+      https://developers.google.com/protocol-buffers
+
+  - name: GraphQL
+    ring: assess
+    quadrant: Languages & Frameworks
+    isNew: true
+    description: |
+      https://graphql.org/
+
+  - name: Laravel
+    ring: assess
+    quadrant: Languages & Frameworks
+    isNew: false
+    description: |
+      https://laravel.com/
+
+  - name: Symfony
+    ring: assess
+    quadrant: Languages & Frameworks
+    isNew: false
+    description: |
+      https://symfony.com/
+
+  - name: Java
+    ring: hold
+    quadrant: Languages & Frameworks
+    isNew: false
+    description: |
+      https://www.java.com/
+
+  - name: Python
+    ring: hold
+    quadrant: Languages & Frameworks
+    isNew: false
+    description: |
+      https://www.python.org/
+
+  - name: Haskell
+    ring: plans*
+    quadrant: Languages & Frameworks
+    isNew: true
+    description: |
+      https://www.haskell.org/
+
+  - name: Rust
+    ring: plans*
+    quadrant: Languages & Frameworks
+    isNew: true
+    description: |
+      https://www.rust-lang.org/
+
+  - name: PostgreSQL
+    ring: adopt
+    quadrant: Data Management
+    isNew: false
+    description: |
+      https://www.postgresql.org/
+
+  - name: Redis
+    ring: adopt
+    quadrant: Data Management
+    isNew: false
+    description: |
+      https://redislabs.com/
+
+  - name: ClickHouse
+    ring: trial
+    quadrant: Data Management
+    isNew: true
+    description: |
+      https://clickhouse.tech/
+
+  - name: RabbitMQ
+    ring: trial
+    quadrant: Data Management
+    isNew: false
+    description: |
+      https://www.rabbitmq.com/
+
+  - name: Kafka
+    ring: assess
+    quadrant: Data Management
+    isNew: true
+    description: |
+      https://kafka.apache.org/
+
+  - name: NATS
+    ring: assess
+    quadrant: Data Management
+    isNew: true
+    description: |
+      https://nats.io/
+
+  - name: MySQL
+    ring: hold
+    quadrant: Data Management
+    isNew: false
+    description: |
+      https://www.mysql.com/
+
+  - name: Percona
+    ring: hold
+    quadrant: Data Management
+    isNew: false
+    description: |
+      https://www.percona.com/
+
+  - name: Docker
+    ring: adopt
+    quadrant: Instrumentation
+    isNew: false
+    description: |
+      https://www.docker.com/
+
+  - name: Sentry
+    ring: adopt
+    quadrant: Instrumentation
+    isNew: false
+    description: |
+      https://sentry.io/
+
+  - name: Ansible
+    ring: trial
+    quadrant: Instrumentation
+    isNew: false
+    description: |
+      https://www.ansible.com/
+
+  - name: Grafana
+    ring: trial
+    quadrant: Instrumentation
+    isNew: false
+    description: |
+      https://grafana.com/
+
+  - name: Prometheus
+    ring: trial
+    quadrant: Instrumentation
+    isNew: true
+    description: |
+      https://prometheus.io/
+
+  - name: Jaeger
+    ring: assess
+    quadrant: Instrumentation
+    isNew: true
+    description: |
+      https://www.jaegertracing.io/
+
+  - name: Kubernetes
+    ring: assess
+    quadrant: Instrumentation
+    isNew: true
+    description: |
+      https://kubernetes.io/
+
+  - name: OpenTelemetry
+    ring: assess
+    quadrant: Instrumentation
+    isNew: true
+    description: |
+      https://opentelemetry.io/
+
+  - name: OpenTracing
+    ring: hold
+    quadrant: Instrumentation
+    isNew: false
+    description: |
+      https://opentracing.io/
+
+  - name: Feature Toggling
+    ring: adopt
+    quadrant: Techniques
+    isNew: true
+    description: |
+      https://en.wikipedia.org/wiki/Feature_toggle
+
+  - name: Infrastructure as Code
+    ring: adopt
+    quadrant: Techniques
+    isNew: true
+    description: |
+      https://en.wikipedia.org/wiki/Infrastructure_as_code
+
+  - name: Scrum
+    ring: adopt
+    quadrant: Techniques
+    isNew: false
+    description: |
+      https://en.wikipedia.org/wiki/Scrum_(software_development)
+
+  - name: Zero Bug Policy
+    ring: adopt
+    quadrant: Techniques
+    isNew: true
+    description: |
+      https://www.infoq.com/articles/0-bugs-policy/
+
+  - name: A/B Testing
+    ring: trial
+    quadrant: Techniques
+    isNew: true
+    description: |
+      https://en.wikipedia.org/wiki/A/B_testing
+
+  - name: Agile Testing
+    ring: trial
+    quadrant: Techniques
+    isNew: true
+    description: |
+      https://en.wikipedia.org/wiki/Agile_testing
+
+  - name: Graceful Degradation
+    ring: trial
+    quadrant: Techniques
+    isNew: true
+    description: |
+      https://en.wikipedia.org/wiki/Fault_tolerance
+
+  - name: DevOps
+    ring: trial
+    quadrant: Techniques
+    isNew: true
+    description: |
+      https://en.wikipedia.org/wiki/DevOps
+
+  - name: Chaos Engineering
+    ring: assess
+    quadrant: Techniques
+    isNew: true
+    description: |
+      https://en.wikipedia.org/wiki/Chaos_engineering
+
+  - name: Kanban
+    ring: assess
+    quadrant: Techniques
+    isNew: false
+    description: |
+      https://en.wikipedia.org/wiki/Kanban_(development)
+
+  - name: Progressive Enhancement
+    ring: assess
+    quadrant: Techniques
+    isNew: false
+    description: |
+      https://en.wikipedia.org/wiki/Progressive_enhancement
+
+  - name: Site Reliability Engineering
+    ring: assess
+    quadrant: Techniques
+    isNew: true
+    description: |
+      https://en.wikipedia.org/wiki/Site_reliability_engineering
+
+---
+
+- name:
+  ring:
+  quadrant:
+  isNew:
+  description: |

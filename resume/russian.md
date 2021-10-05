@@ -14,9 +14,9 @@
 
 ## Стек
 
-- **Languages**: Go, TypeScript, PHP.
-- **IDL**: GraphQL, Protobuf, OpenAPI.
-- **Databases**: Clickhouse, PostgreSQL, Redis.
+- **Languages**: Go, PHP, TypeScript.
+- **IDL**: OpenAPI, Protobuf, GraphQL.
+- **Databases**: PostgreSQL, Redis, Clickhouse.
 - **Queues**: RabbitMQ, Kafka, NATS.
 - **Operations**: Docker, Kubernetes, AWS.
 
