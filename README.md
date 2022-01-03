@@ -3,7 +3,7 @@
 <img align="right" width="350"
      src="https://raw.githubusercontent.com/kamilsk/.github/main/.static/octopus.png"/>
 
-Open-source enthusiast, [mentor][GetMentor] and creator of [@OctoLab][].
+Open-source enthusiast, [mentor][GetMentor], and creator of [@OctoLab][].
 
 - Ex-Head of Engineering at [@Qase][].
 - Ex-Engineering Team Lead at [@Avito][].
@@ -56,7 +56,7 @@ Open-source enthusiast, [mentor][GetMentor] and creator of [@OctoLab][].
 If you find my work useful, feel free to [buy me a coffee][BuyMeACoffee] ☕ or [send me a message][Telegram] ✉️
 
 [BuyMeACoffee]:     https://www.buymeacoffee.com/kamilsk
-[Telegram]:         https://t.me/ikamilsk
+[Telegram]:         https://t.me/kamilsk
 
 ## Contact
 
