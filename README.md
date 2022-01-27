@@ -31,7 +31,6 @@ Open-source enthusiast, [mentor][GetMentor], and creator of [@OctoLab][].
 
 #### Custom forks
 
-- [mergestat](https://github.com/kamilsk/mergestat/releases/tag/homebrew).
 - [godownloader](https://github.com/kamilsk/godownloader/releases/tag/homebrew).
 - [goimports](https://github.com/kamilsk/go-tools/releases/tag/goimports).
 - [golangci-lint](https://github.com/kamilsk/golangci-lint/releases/tag/looppointer).
