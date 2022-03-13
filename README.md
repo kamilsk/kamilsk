@@ -50,11 +50,13 @@ Open-source enthusiast, [mentor][GetMentor], and creator of [@OctoLab][].
 
 ### Latest releases
 
+- **2023-02-13** - 🏃 [tact-app/web, v0.1.0][]
 - **2021-04-08** - 🤫 [vpn, v0.1.0][]
 - **2021-01-07** - 🚧 [breaker, v1.2.0][]
 
-[breaker, v1.2.0]:  https://github.com/kamilsk/breaker/releases/tag/v1.2.0
-[vpn, v0.1.0]:      https://github.com/octomation/vpn/releases/tag/v0.1.0
+[breaker, v1.2.0]:              https://github.com/kamilsk/breaker/releases/tag/v1.2.0
+[tact-app/web, v0.1.0]:         https://github.com/tact-app/web/releases/tag/v0.1.0
+[vpn, v0.1.0]:                  https://github.com/octomation/vpn/releases/tag/v0.1.0
 
 If you find my work useful, feel free to [buy me a coffee][BuyMeACoffee] ☕ or [send me a message][Telegram] ✉️
 
