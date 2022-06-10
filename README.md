@@ -50,6 +50,7 @@ Open-source enthusiast, [mentor][GetMentor], and creator of [@OctoLab][].
 
 ### Latest releases
 
+- **2023-04-24** - 🧩 [octomation/go-module, v1.0.0][]
 - **2023-03-20** - 🏃 [tact-app/web, v0.2.0][]
 - **2023-02-16** - 🏃 [tact-app/web, v0.1.1][]
 - **2023-02-13** - 🏃 [tact-app/web, v0.1.0][]
@@ -57,6 +58,7 @@ Open-source enthusiast, [mentor][GetMentor], and creator of [@OctoLab][].
 - **2021-01-07** - 🚧 [breaker, v1.2.0][]
 
 [breaker, v1.2.0]:              https://github.com/kamilsk/breaker/releases/tag/v1.2.0
+[octomation/go-module, v1.0.0]: https://github.com/octomation/go-module/releases/tag/v1.0.0
 [tact-app/web, v0.1.0]:         https://github.com/tact-app/web/releases/tag/v0.1.0
 [tact-app/web, v0.1.1]:         https://github.com/tact-app/web/releases/tag/v0.1.1
 [tact-app/web, v0.2.0]:         https://github.com/tact-app/web/releases/tag/v0.2.0
