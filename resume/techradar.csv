@@ -10,23 +10,23 @@ Laravel,assess,Languages & Frameworks,false,https://laravel.com/
 Symfony,assess,Languages & Frameworks,false,https://symfony.com/
 Java,hold,Languages & Frameworks,false,https://www.java.com/
 Python,hold,Languages & Frameworks,false,https://www.python.org/
-PostgreSQL,adopt,Data Management,false,https://www.postgresql.org/
-Redis,adopt,Data Management,false,https://redislabs.com/
-ClickHouse,trial,Data Management,true,https://clickhouse.tech/
-RabbitMQ,trial,Data Management,false,https://www.rabbitmq.com/
-Kafka,assess,Data Management,true,https://kafka.apache.org/
-NATS,assess,Data Management,true,https://nats.io/
-MySQL,hold,Data Management,false,https://www.mysql.com/
-Percona,hold,Data Management,false,https://www.percona.com/
-Docker,adopt,Instrumentation,false,https://www.docker.com/
-Sentry,adopt,Instrumentation,false,https://sentry.io/
-Ansible,trial,Instrumentation,false,https://www.ansible.com/
-Grafana,trial,Instrumentation,false,https://grafana.com/
-Prometheus,trial,Instrumentation,true,https://prometheus.io/
-Jaeger,assess,Instrumentation,true,https://www.jaegertracing.io/
-Kubernetes,assess,Instrumentation,true,https://kubernetes.io/
-OpenTelemetry,assess,Instrumentation,true,https://opentelemetry.io/
-OpenTracing,hold,Instrumentation,false,https://opentracing.io/
+PostgreSQL,adopt,Platforms,false,https://www.postgresql.org/
+Redis,adopt,Platforms,false,https://redislabs.com/
+ClickHouse,trial,Platforms,true,https://clickhouse.tech/
+RabbitMQ,trial,Platforms,false,https://www.rabbitmq.com/
+Kafka,assess,Platforms,true,https://kafka.apache.org/
+NATS,assess,Platforms,true,https://nats.io/
+MySQL,hold,Platforms,false,https://www.mysql.com/
+Percona,hold,Platforms,false,https://www.percona.com/
+Docker,adopt,Tools,false,https://www.docker.com/
+Sentry,adopt,Tools,false,https://sentry.io/
+Ansible,trial,Tools,false,https://www.ansible.com/
+Grafana,trial,Tools,false,https://grafana.com/
+Prometheus,trial,Tools,true,https://prometheus.io/
+Jaeger,assess,Tools,true,https://www.jaegertracing.io/
+Kubernetes,assess,Tools,true,https://kubernetes.io/
+OpenTelemetry,assess,Tools,true,https://opentelemetry.io/
+OpenTracing,hold,Tools,false,https://opentracing.io/
 Feature Toggling,adopt,Techniques,true,https://en.wikipedia.org/wiki/Feature_toggle
 Infrastructure as Code,adopt,Techniques,true,https://en.wikipedia.org/wiki/Infrastructure_as_code
 Scrum,adopt,Techniques,false,https://en.wikipedia.org/wiki/Scrum_(software_development)

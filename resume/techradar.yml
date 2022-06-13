@@ -128,119 +128,119 @@ scope:
 
   - name: PostgreSQL
     ring: adopt
-    quadrant: Data Management
+    quadrant: Platforms
     isNew: false
     description: |
       https://www.postgresql.org/
 
   - name: Redis
     ring: adopt
-    quadrant: Data Management
+    quadrant: Platforms
     isNew: false
     description: |
       https://redislabs.com/
 
   - name: ClickHouse
     ring: trial
-    quadrant: Data Management
+    quadrant: Platforms
     isNew: true
     description: |
       https://clickhouse.tech/
 
   - name: RabbitMQ
     ring: trial
-    quadrant: Data Management
+    quadrant: Platforms
     isNew: false
     description: |
       https://www.rabbitmq.com/
 
   - name: Kafka
     ring: assess
-    quadrant: Data Management
+    quadrant: Platforms
     isNew: true
     description: |
       https://kafka.apache.org/
 
   - name: NATS
     ring: assess
-    quadrant: Data Management
+    quadrant: Platforms
     isNew: true
     description: |
       https://nats.io/
 
   - name: MySQL
     ring: hold
-    quadrant: Data Management
+    quadrant: Platforms
     isNew: false
     description: |
       https://www.mysql.com/
 
   - name: Percona
     ring: hold
-    quadrant: Data Management
+    quadrant: Platforms
     isNew: false
     description: |
       https://www.percona.com/
 
   - name: Docker
     ring: adopt
-    quadrant: Instrumentation
+    quadrant: Tools
     isNew: false
     description: |
       https://www.docker.com/
 
   - name: Sentry
     ring: adopt
-    quadrant: Instrumentation
+    quadrant: Tools
     isNew: false
     description: |
       https://sentry.io/
 
   - name: Ansible
     ring: trial
-    quadrant: Instrumentation
+    quadrant: Tools
     isNew: false
     description: |
       https://www.ansible.com/
 
   - name: Grafana
     ring: trial
-    quadrant: Instrumentation
+    quadrant: Tools
     isNew: false
     description: |
       https://grafana.com/
 
   - name: Prometheus
     ring: trial
-    quadrant: Instrumentation
+    quadrant: Tools
     isNew: true
     description: |
       https://prometheus.io/
 
   - name: Jaeger
     ring: assess
-    quadrant: Instrumentation
+    quadrant: Tools
     isNew: true
     description: |
       https://www.jaegertracing.io/
 
   - name: Kubernetes
     ring: assess
-    quadrant: Instrumentation
+    quadrant: Tools
     isNew: true
     description: |
       https://kubernetes.io/
 
   - name: OpenTelemetry
     ring: assess
-    quadrant: Instrumentation
+    quadrant: Tools
     isNew: true
     description: |
       https://opentelemetry.io/
 
   - name: OpenTracing
     ring: hold
-    quadrant: Instrumentation
+    quadrant: Tools
     isNew: false
     description: |
       https://opentracing.io/
