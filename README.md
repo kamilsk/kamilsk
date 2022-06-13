@@ -1,7 +1,7 @@
 # Hi, I'm Kamil 👋
 
 <img align="right" width="350"
-     src="https://raw.githubusercontent.com/kamilsk/.github/main/.static/octopus.png"/>
+     src="https://raw.githubusercontent.com/kamilsk/.github/main/assets/geek/github.png" />
 
 Open-source enthusiast, [mentor][GetMentor], and creator of [@OctoLab][].
 
@@ -73,7 +73,7 @@ If you find my work useful, feel free to [buy me a coffee][BuyMeACoffee] ☕ or 
 
 Reach me on [LinkedIn][] or follow me on [GitHub][] or [Twitter][].
 <img align="right" alt="profile views"
-     src="https://komarev.com/ghpvc/?username=kamilsk&label=views&color=grey"/>
+     src="https://komarev.com/ghpvc/?username=kamilsk&label=views&color=grey" />
 
 [GitHub]:      https://github.com/kamilsk
 [LinkedIn]:    https://www.linkedin.com/in/kamilsk
