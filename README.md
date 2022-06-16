@@ -3,18 +3,10 @@
 <img align="right" width="350"
      src="https://raw.githubusercontent.com/kamilsk/.github/main/assets/geek/github.png" />
 
-Open-source enthusiast, [mentor][GetMentor], and creator of [@OctoLab][].
+An open-source enthusiast, [mentor][GetMentor], and creator of [OctoLab][] and [Tact][].
 
-- Founder of [@Tact][], the next-generation Time Management Software and Work-Life Management Platform.
-- Ex-Head of Engineering at [@Qase][].
-- Ex-Engineering Team Lead at [@Avito][].
-- Ex-Engineer at [@Lazada][].
-
-[@Avito]:      https://github.com/avito-tech
-[@Lazada]:     https://github.com/lazada
-[@OctoLab]:    https://github.com/octolab
-[@Qase]:       https://github.com/qase-tms
-[@Tact]:       https://github.com/tact-app
+[OctoLab]:     https://github.com/octolab
+[Tact]:        https://github.com/tact-app
 [GetMentor]:   https://getmentor.dev/mentor/kamil-samigullin-612
 
 ## Work in progress
@@ -35,20 +27,7 @@ Open-source enthusiast, [mentor][GetMentor], and creator of [@OctoLab][].
 - [goimports](https://github.com/kamilsk/go-tools/releases/tag/goimports).
 - [golangci-lint](https://github.com/kamilsk/golangci-lint/releases/tag/looppointer).
 
-#### Releases
-
-- [github.com/pelletier/go-toml v1.5.0][go-toml/v1.5.0], [pull request][go-toml/v1.5.0/pull-request].
-
-[go-toml/v1.5.0]:                  https://github.com/pelletier/go-toml/releases/tag/v1.5.0
-[go-toml/v1.5.0/pull-request]:     https://github.com/pelletier/go-toml/pull/281
-
-#### Pull requests
-
-- [github.com/mitchellh/mapstructure][mapstructure/x/pull-request].
-
-[mapstructure/x/pull-request]: https://github.com/mitchellh/mapstructure/pull/291
-
-### Latest releases
+#### Latest releases
 
 - **2023-04-24** - 🧩 [octomation/go-module, v1.0.0][]
 - **2023-03-20** - 🏃 [tact-app/web, v0.2.0][]
@@ -57,24 +36,45 @@ Open-source enthusiast, [mentor][GetMentor], and creator of [@OctoLab][].
 - **2021-04-08** - 🤫 [vpn, v0.1.0][]
 - **2021-01-07** - 🚧 [breaker, v1.2.0][]
 
-[breaker, v1.2.0]:              https://github.com/kamilsk/breaker/releases/tag/v1.2.0
-[octomation/go-module, v1.0.0]: https://github.com/octomation/go-module/releases/tag/v1.0.0
-[tact-app/web, v0.1.0]:         https://github.com/tact-app/web/releases/tag/v0.1.0
-[tact-app/web, v0.1.1]:         https://github.com/tact-app/web/releases/tag/v0.1.1
-[tact-app/web, v0.2.0]:         https://github.com/tact-app/web/releases/tag/v0.2.0
-[vpn, v0.1.0]:                  https://github.com/octomation/vpn/releases/tag/v0.1.0
+[breaker, v1.2.0]:                 https://github.com/kamilsk/breaker/releases/tag/v1.2.0
+[octomation/go-module, v1.0.0]:    https://github.com/octomation/go-module/releases/tag/v1.0.0
+[tact-app/web, v0.2.0]:            https://github.com/tact-app/web/releases/tag/v0.2.0
+[tact-app/web, v0.1.1]:            https://github.com/tact-app/web/releases/tag/v0.1.1
+[tact-app/web, v0.1.0]:            https://github.com/tact-app/web/releases/tag/v0.1.0
+[vpn, v0.1.0]:                     https://github.com/octomation/vpn/releases/tag/v0.1.0
 
-If you find my work useful, feel free to [buy me a coffee][BuyMeACoffee] ☕ or [send me a message][Telegram] ✉️
+#### Impacts
 
-[BuyMeACoffee]:     https://www.buymeacoffee.com/kamilsk
-[Telegram]:         https://t.me/kamilsk
+- [github.com/pelletier/go-toml v1.5.0][go-toml/v1.5.0], [pull request][go-toml/281/pr].
 
-## Contact
+[go-toml/v1.5.0]:   https://github.com/pelletier/go-toml/releases/tag/v1.5.0
+[go-toml/281/pr]:   https://github.com/pelletier/go-toml/pull/281
 
-Reach me on [LinkedIn][] or follow me on [GitHub][] or [Twitter][].
+#### Outputs
+
+- [github.com/mitchellh/mapstructure][mapstructure/291/pr].
+
+[mapstructure/291/pr]:   https://github.com/mitchellh/mapstructure/pull/291
+
+## Contact me
+
+Reach me on [LinkedIn][] or follow me on [Twitter][].
+Want to talk? Write me a message on [Telegram][].
+
+[LinkedIn]:    https://www.linkedin.com/in/kamilsk/
+[Twitter]:     https://twitter.com/ikamilsk
+[Telegram]:    https://t.me/kamilsk
+
+## Support me
+
+I use [Airtable][], [Notion][], and [DigitalOcean][] & [Linode][] regularly.
+So, if you found my work useful, and found the services useful too,
+you could support me by using my referral links. It will be nice.
+
+[Airtable]:         https://airtable.com/invite/r/8eOiv4I4
+[DigitalOcean]:     https://m.do.co/c/b2a387de5da4
+[Linode]:           https://www.linode.com/lp/refer/?r=2380225d05c74b69bd7e553a8c763808733fc71f
+[Notion]:           https://affiliate.notion.so/inlqolf5id34
+
 <img align="right" alt="profile views"
      src="https://komarev.com/ghpvc/?username=kamilsk&label=views&color=grey" />
-
-[GitHub]:      https://github.com/kamilsk
-[LinkedIn]:    https://www.linkedin.com/in/kamilsk
-[Twitter]:     https://twitter.com/ikamilsk
