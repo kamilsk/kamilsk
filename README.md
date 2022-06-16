@@ -25,7 +25,7 @@ Open-source enthusiast, [mentor][GetMentor], and creator of [@OctoLab][].
 
 [My startup]:   https://bit.ly/m/tact
 [Big picture]:  https://miro.com/app/board/o9J_lVCU5K4=/?moveToWidget=3074457355397794508&cot=14
-[Tech Radar]:   https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fkamilsk%2Fkamilsk%2Fmain%2Fresume%2Ftechradar.csv
+[Tech Radar]:   https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Fkamilsk%2Fkamilsk%2Fmain%2Fresume%2Ftechradar.csv
 
 ### Latest contributions
 
