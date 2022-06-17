@@ -21,13 +21,13 @@ An open-source enthusiast, [mentor][GetMentor], and creator of [OctoLab][] and [
 
 ### Latest contributions
 
-#### Custom forks
+#### Forks
 
 - [godownloader](https://github.com/kamilsk/godownloader/releases/tag/homebrew).
 - [goimports](https://github.com/kamilsk/go-tools/releases/tag/goimports).
 - [golangci-lint](https://github.com/kamilsk/golangci-lint/releases/tag/looppointer).
 
-#### Latest releases
+#### Releases
 
 - **2023-04-24** - 🧩 [octomation/go-module, v1.0.0][]
 - **2023-03-20** - 🏃 [tact-app/web, v0.2.0][]
