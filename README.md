@@ -1,7 +1,7 @@
 # Hi, I'm Kamil 👋
 
 <img align="right" width="350"
-     src="https://raw.githubusercontent.com/kamilsk/.github/main/assets/geek/github.png" />
+     src="https://raw.githubusercontent.com/kamilsk/kamilsk/main/assets/qr-tg.png" />
 
 An open-source enthusiast, [mentor][GetMentor], and creator of [OctoLab][] and [Tact][].
 
