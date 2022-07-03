@@ -64,11 +64,12 @@ Want to talk? Write me a message on [Telegram][].
 
 ## Support me
 
-I use [Airtable][], [Notion][], and [DigitalOcean][] & [Linode][] regularly.
+I recommend [Airtable][], [Notion][], [Deel][], and [DigitalOcean][] with [Linode][].
 So, if you found my work useful, and found the services useful too,
 you could support me by using my referral links. It will be nice.
 
 [Airtable]:         https://airtable.com/invite/r/8eOiv4I4
+[Deel]:             https://deel.com/referrals/Kamil-EJ2O62v5
 [DigitalOcean]:     https://m.do.co/c/b2a387de5da4
 [Linode]:           https://www.linode.com/lp/refer/?r=2380225d05c74b69bd7e553a8c763808733fc71f
 [Notion]:           https://affiliate.notion.so/inlqolf5id34
