@@ -1,7 +1,6 @@
 # Hi, I'm Kamil 👋
 
-<img align="right" width="350"
-     src="https://raw.githubusercontent.com/kamilsk/kamilsk/main/assets/qr-tg.png" />
+<img align="right" width="350" src="https://cdn.octolab.org/misc/qr-tg.png" />
 
 - A part-time CTO and creator of [OctoLab][] and [Tact][].
 - An open-source enthusiast and [mentor][GetMentor].
