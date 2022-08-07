@@ -1,12 +1,11 @@
 # Hi, I'm Kamil 👋
 
-<img align="right" width="350" src="https://cdn.octolab.org/misc/qr-tg.png" />
+<img align="right" width="350" src="https://cdn.octolab.org/misc/qr-tg.png" alt="contact" />
 
-- A part-time CTO and creator of [OctoLab][] and [Tact][].
+- A micro-entrepreneur and creator of [OctoLab][].
 - An open-source enthusiast and [mentor][GetMentor].
 
 [OctoLab]:     https://github.com/octolab
-[Tact]:        https://github.com/tact-app
 [GetMentor]:   https://getmentor.dev/mentor/kamil-samigullin-612
 
 ## Work in progress
