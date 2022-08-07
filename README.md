@@ -28,6 +28,8 @@
 
 #### Releases
 
+- **2023-10-29** - ✨ [withsparkle/service, v0.1.2][]
+- **2023-10-26** - ✨ [withsparkle/service, v0.1.1][]
 - **2023-10-25** - ✨ [withsparkle/service, v0.1.0][]
 - **2023-08-22** - 🤺 [tact-app/web, v0.4.0][]
 - **2023-05-12** - 🤺 [tact-app/web, v0.3.0][]
@@ -41,6 +43,8 @@
 [tact-app/web, v0.4.0]:            https://github.com/tact-app/web/releases/tag/v0.4.0
 [vpn, v0.1.0]:                     https://github.com/octomation/vpn/releases/tag/v0.1.0
 [withsparkle/service, v0.1.0]:     https://github.com/withsparkle/service/releases/tag/v0.1.0
+[withsparkle/service, v0.1.1]:     https://github.com/withsparkle/service/releases/tag/v0.1.1
+[withsparkle/service, v0.1.2]:     https://github.com/withsparkle/service/releases/tag/v0.1.2
 
 #### Outcomes
 
