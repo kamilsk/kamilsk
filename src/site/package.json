@@ -1,0 +1,21 @@
+{
+  "name": "kamil.samigullin.info",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro check && astro build",
+    "start": "astro dev",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "browserslist": [
+    "defaults, not ie <= 11"
+  ],
+  "dependencies": {
+    "@astrojs/check": "^0.3.1",
+    "astro": "^3.5.2",
+    "typescript": "^5.2.2"
+  }
+}
