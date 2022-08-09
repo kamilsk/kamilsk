@@ -30,6 +30,8 @@
 
 | Date           | Release                             |
 |:---------------|:------------------------------------|
+| **2023-11-14** | ✨ [sparkle/service, v0.2.4][]       |
+| **2023-11-14** | ✨ [sparkle/service, v0.2.3][]       |
 | **2023-10-30** | ✨ [sparkle/service, v0.2.0][]       |
 | **2023-10-29** | ✨ [sparkle/service, v0.1.2][]       |
 | **2023-10-26** | ✨ [sparkle/service, v0.1.1][]       |
@@ -45,6 +47,8 @@
 [sparkle/service, v0.1.1]:         https://github.com/withsparkle/service/releases/tag/v0.1.1
 [sparkle/service, v0.1.2]:         https://github.com/withsparkle/service/releases/tag/v0.1.2
 [sparkle/service, v0.2.0]:         https://github.com/withsparkle/service/releases/tag/v0.2.0
+[sparkle/service, v0.2.3]:         https://github.com/withsparkle/service/releases/tag/v0.2.3
+[sparkle/service, v0.2.4]:         https://github.com/withsparkle/service/releases/tag/v0.2.4
 
 #### Outcomes
 
