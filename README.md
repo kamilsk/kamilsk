@@ -52,7 +52,8 @@
 
 #### Researches
 
-- [Go YAML research](https://github.com/under-the-hood/go-yaml)[^1]
+- [Go Markdown research](https://github.com/under-the-hood/go-markdown)[^1].
+- [Go YAML research](https://github.com/under-the-hood/go-yaml)[^1].
 
 [^1]: work in progress
 
