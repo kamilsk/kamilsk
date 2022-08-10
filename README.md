@@ -52,9 +52,10 @@
 
 #### Researches
 
-- [Documentation infrastructure research](https://github.com/under-the-hood/docs)[^1].
+- [Documentation inventory research](https://github.com/under-the-hood/docs)[^1].
 - [Go Markdown research](https://github.com/under-the-hood/go-markdown)[^1].
 - [Go YAML research](https://github.com/under-the-hood/go-yaml)[^1].
+- [LLM and GPT research](https://github.com/under-the-hood/persona)[^1].
 
 [^1]: work in progress
 
