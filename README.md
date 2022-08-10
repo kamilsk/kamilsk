@@ -69,11 +69,12 @@
 
 [mapstructure/291/pr]: https://github.com/mitchellh/mapstructure/pull/291
 
-## Contact me
+## Join to my space
 
 Reach me on [LinkedIn][] or follow me on [Twitter][].
-Want to talk? Write me a message on [Telegram][].
+Want to talk? Write me a message on [Telegram][] or [schedule a meeting][Cal.com].
 
+[Cal.com]:  https://jointo.space/kamilsk/cal.com
 [LinkedIn]: https://jointo.space/kamilsk/linkedin
 [Telegram]: https://jointo.space/kamilsk/telegram
 [Twitter]:  https://jointo.space/kamilsk/twitter
