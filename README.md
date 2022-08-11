@@ -28,6 +28,7 @@ something valuable and inspiring in what I offer! 🙌
 
 | Date           | Release                             |
 |:---------------|:------------------------------------|
+| **2023-11-25** | ✨ [sparkle/service, v0.3.1][]       |
 | **2023-11-25** | 🌱 [lifeos/whisper, v20231117][]    |
 | **2023-11-21** | ✨ [sparkle/service, v0.3.0][]       |
 | **2023-11-14** | ✨ [sparkle/service, v0.2.4][]       |
@@ -51,6 +52,7 @@ something valuable and inspiring in what I offer! 🙌
 [sparkle/service, v0.2.3]:      https://github.com/withsparkle/service/releases/tag/v0.2.3
 [sparkle/service, v0.2.4]:      https://github.com/withsparkle/service/releases/tag/v0.2.4
 [sparkle/service, v0.3.0]:      https://github.com/withsparkle/service/releases/tag/v0.3.0
+[sparkle/service, v0.3.1]:      https://github.com/withsparkle/service/releases/tag/v0.3.1
 
 ### Researches
 
