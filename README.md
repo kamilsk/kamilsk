@@ -1,35 +1,34 @@
 # Hi, I'm Kamil 👋
 
-<img align="right" width="350" src="https://cdn.octolab.org/misc/qr-tg.png" alt="contact" />
+<a href="https://jointo.space/kamilsk" target="_blank">
+  <img align="right" width="350" alt="join to my space"
+       src="https://cdn.octolab.org/misc/qr-jtms.png" />
+</a>
 
-- A micro-entrepreneur and creator of [OctoLab][].
+- A micro-entrepreneur and founder of [OctoLab][].
+- A creator of [LifeOS][], [Sparkle][], and [Tact][].
 - An open-source enthusiast and [mentor][GetMentor].
 
-[OctoLab]:   https://github.com/octolab
+I firmly believe in the transformative power of open source –
+its openness and accessibility make our world a better place.
+The freedom to bring ideas to life and share them with a community is
+invaluable! I aim to deliver an unparalleled developer experience by
+creating [OctoLab][] as a developer-centric project. I hope you'll find
+something valuable and inspiring in what I offer! 🙌
+
+[OctoLab]:   https://www.octolab.org/
+[LifeOS]:    https://lifeos.company/
+[Sparkle]:   https://sparkle.wiki/
+[Tact]:      https://tact.run/
 [GetMentor]: https://jointo.space/kamilsk/getmentor
 
-## Work in progress
+## Latest contributions
 
-- 🏋️ [My startup][].
-- 🗺 [Big picture][].
-- 📡 [Tech radar][].
-
-[My startup]:  https://bit.ly/m/tact
-[Big picture]: https://miro.com/app/board/o9J_lVCU5K4=/?moveToWidget=3074457355397794508&cot=14
-[Tech Radar]:  https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Fkamilsk%2Fkamilsk%2Fmain%2Fresume%2Ftechradar.csv
-
-### Latest contributions
-
-#### Forks
-
-- [godownloader](https://github.com/kamilsk/godownloader/releases/tag/homebrew).
-- [goimports](https://github.com/kamilsk/go-tools/releases/tag/goimports).
-- [golangci-lint](https://github.com/kamilsk/golangci-lint/releases/tag/looppointer).
-
-#### Releases
+### Releases
 
 | Date           | Release                             |
 |:---------------|:------------------------------------|
+| **2023-11-21** | ✨ [sparkle/service, v0.3.0][]       |
 | **2023-11-14** | ✨ [sparkle/service, v0.2.4][]       |
 | **2023-11-14** | ✨ [sparkle/service, v0.2.3][]       |
 | **2023-10-30** | ✨ [sparkle/service, v0.2.0][]       |
@@ -49,8 +48,9 @@
 [sparkle/service, v0.2.0]:      https://github.com/withsparkle/service/releases/tag/v0.2.0
 [sparkle/service, v0.2.3]:      https://github.com/withsparkle/service/releases/tag/v0.2.3
 [sparkle/service, v0.2.4]:      https://github.com/withsparkle/service/releases/tag/v0.2.4
+[sparkle/service, v0.3.0]:      https://github.com/withsparkle/service/releases/tag/v0.3.0
 
-#### Researches
+### Researches
 
 - [Documentation inventory research](https://github.com/under-the-hood/docs)[^1].
 - [Full-text search engines research](https://github.com/under-the-hood/search)[^1].
@@ -60,18 +60,11 @@
 
 [^1]: work in progress
 
-#### Outcomes
+### Maintained forks
 
-- [github.com/pelletier/go-toml v1.5.0][go-toml/v1.5.0], [pull request][go-toml/281/pr].
-
-[go-toml/v1.5.0]: https://github.com/pelletier/go-toml/releases/tag/v1.5.0
-[go-toml/281/pr]: https://github.com/pelletier/go-toml/pull/281
-
-#### Outputs
-
-- [github.com/mitchellh/mapstructure][mapstructure/291/pr].
-
-[mapstructure/291/pr]: https://github.com/mitchellh/mapstructure/pull/291
+- [godownloader](https://godownloader.octolab.org/).
+- [goimports](https://goimports.octolab.org/).
+- [golangci-lint](https://golangci-lint.octolab.org/).
 
 ## Join to my space
 
@@ -83,4 +76,5 @@ Want to talk? Write me a message on [Telegram][] or [schedule a meeting][Cal.com
 [Telegram]: https://jointo.space/kamilsk/telegram
 [Twitter]:  https://jointo.space/kamilsk/twitter
 
-<img align="right" alt="profile views" src="https://komarev.com/ghpvc/?username=kamilsk&label=views&color=grey" />
+<img align="right" alt="profile views"
+     src="https://komarev.com/ghpvc/?username=kamilsk&label=views&color=grey" />
