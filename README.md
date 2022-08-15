@@ -28,6 +28,7 @@ something valuable and inspiring in what I offer! 🙌
 
 | Date           | Release                             |
 |:---------------|:------------------------------------|
+| **2023-11-30** | 🧑‍🚀 [jointo.space][]              |
 | **2023-11-25** | ✨ [sparkle/service, v0.3.1][]       |
 | **2023-11-25** | 🌱 [lifeos/whisper, v20231117][]    |
 | **2023-11-21** | ✨ [sparkle/service, v0.3.0][]       |
@@ -41,10 +42,9 @@ something valuable and inspiring in what I offer! 🙌
 | **2023-05-12** | 🤺 [tact/web, v0.3.0][]             |
 | **2023-04-24** | 🧩 [octomation/go-module, v1.0.0][] |
 
-[octomation/go-module, v1.0.0]: https://github.com/octomation/go-module/releases/tag/v1.0.0
-[tact/web, v0.3.0]:             https://github.com/tact-app/web/releases/tag/v0.3.0
-[tact/web, v0.4.0]:             https://github.com/tact-app/web/releases/tag/v0.4.0
+[jointo.space]:                 https://jointo.space/
 [lifeos/whisper, v20231117]:    https://github.com/lifeosm/whisper/releases/tag/v20231117
+[octomation/go-module, v1.0.0]: https://github.com/octomation/go-module/releases/tag/v1.0.0
 [sparkle/service, v0.1.0]:      https://github.com/withsparkle/service/releases/tag/v0.1.0
 [sparkle/service, v0.1.1]:      https://github.com/withsparkle/service/releases/tag/v0.1.1
 [sparkle/service, v0.1.2]:      https://github.com/withsparkle/service/releases/tag/v0.1.2
@@ -53,6 +53,8 @@ something valuable and inspiring in what I offer! 🙌
 [sparkle/service, v0.2.4]:      https://github.com/withsparkle/service/releases/tag/v0.2.4
 [sparkle/service, v0.3.0]:      https://github.com/withsparkle/service/releases/tag/v0.3.0
 [sparkle/service, v0.3.1]:      https://github.com/withsparkle/service/releases/tag/v0.3.1
+[tact/web, v0.3.0]:             https://github.com/tact-app/web/releases/tag/v0.3.0
+[tact/web, v0.4.0]:             https://github.com/tact-app/web/releases/tag/v0.4.0
 
 ### Researches
 
