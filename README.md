@@ -28,6 +28,7 @@ something valuable and inspiring in what I offer! 🙌
 
 | Date           | Release                             |
 |:---------------|:------------------------------------|
+| **2023-12-02** | 🌱 [lifeos.company][]               |
 | **2023-11-30** | 🧑‍🚀 [jointo.space][]              |
 | **2023-11-25** | ✨ [sparkle/service, v0.3.1][]       |
 | **2023-11-25** | 🌱 [lifeos/whisper, v20231117][]    |
@@ -43,6 +44,7 @@ something valuable and inspiring in what I offer! 🙌
 | **2023-04-24** | 🧩 [octomation/go-module, v1.0.0][] |
 
 [jointo.space]:                 https://jointo.space/
+[lifeos.company]:               https://lifeos.company/
 [lifeos/whisper, v20231117]:    https://github.com/lifeosm/whisper/releases/tag/v20231117
 [octomation/go-module, v1.0.0]: https://github.com/octomation/go-module/releases/tag/v1.0.0
 [sparkle/service, v0.1.0]:      https://github.com/withsparkle/service/releases/tag/v0.1.0
@@ -72,7 +74,7 @@ something valuable and inspiring in what I offer! 🙌
 - [goimports](https://goimports.octolab.org/).
 - [golangci-lint](https://golangci-lint.octolab.org/).
 
-## Join to my space
+## Join my space
 
 Reach me on [LinkedIn][] or follow me on [Twitter][].
 Want to talk? Write me a message on [Telegram][] or [schedule a meeting][Cal.com].
