@@ -18,18 +18,19 @@ knowledge management. These tools are my commitment to elevating my life and
 empowering others to do the same, fostering a community where work and
 personal life can flourish.
 
-I firmly believe in the transformative power of open source –
-its openness and accessibility make our world a better place.
-The freedom to bring ideas to life and share them with a community is
-invaluable! I aim to deliver an unparalleled developer experience by
-creating [OctoLab][] as a developer-centric project. I hope you'll find
-something valuable and inspiring in what I offer! 🙌
-
 [OctoLab]:   https://www.octolab.org/
 [LifeOS]:    https://lifeos.company/
 [Sparkle]:   https://sparkle.wiki/
 [Tact]:      https://tact.run/
 [GetMentor]: https://jointo.space/kamilsk/getmentor
+
+- 😤 I'm currently working on [Sparkle][].
+- 🤗 I'm looking to collaborate on PKM[^1].
+- 😎 I'm looking for a partnership for [Space][].
+
+[Space]: https://jointo.space/
+
+[^1]: Personal Knowledge Management.
 
 ## Latest contributions
 
@@ -69,13 +70,11 @@ something valuable and inspiring in what I offer! 🙌
 
 ### Researches
 
-- [Documentation inventory research](https://github.com/under-the-hood/docs)[^1].
-- [Full-text search engines research](https://github.com/under-the-hood/search)[^1].
-- [Go Markdown research](https://github.com/under-the-hood/go-markdown)[^1].
-- [Go YAML research](https://github.com/under-the-hood/go-yaml)[^1].
-- [LLM and GPT research](https://github.com/under-the-hood/persona)[^1].
-
-[^1]: work in progress
+- [Documentation inventory research](https://github.com/under-the-hood/docs).
+- [Full-text search engines research](https://github.com/under-the-hood/search).
+- [Go Markdown research](https://github.com/under-the-hood/go-markdown).
+- [Go YAML research](https://github.com/under-the-hood/go-yaml).
+- [LLM and GPT research](https://github.com/under-the-hood/persona).
 
 ### Maintained forks
 
@@ -84,6 +83,13 @@ something valuable and inspiring in what I offer! 🙌
 - [golangci-lint](https://golangci-lint.octolab.org/).
 
 ## Join my space
+
+I firmly believe in the transformative power of open source –
+its openness and accessibility make our world a better place.
+The freedom to bring ideas to life and share them with a community is
+invaluable! I aim to deliver an unparalleled developer experience by
+creating [OctoLab][] as a developer-centric project. I hope you'll find
+something valuable and inspiring in what I offer! 🙌
 
 Reach me on [LinkedIn][] or follow me on [Twitter][].
 Want to talk? Write me a message on [Telegram][] or [schedule a meeting][Cal.com].
