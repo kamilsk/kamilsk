@@ -9,6 +9,15 @@
 - A creator of [LifeOS][], [Sparkle][], and [Tact][].
 - An open-source enthusiast and [mentor][GetMentor].
 
+As a founder, my dream has always been to balance cherishing moments
+with my family and achieve substantial success professionally.
+This vision led me to conceive [LifeOS][], a system designed to navigate
+the complexities of modern life. By creating two products, [Sparkle][] and
+[Tact][], I’ve aimed to encapsulate the essence of efficiency and
+knowledge management. These tools are my commitment to elevating my life and
+empowering others to do the same, fostering a community where work and
+personal life can flourish.
+
 I firmly believe in the transformative power of open source –
 its openness and accessibility make our world a better place.
 The freedom to bring ideas to life and share them with a community is
