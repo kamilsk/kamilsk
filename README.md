@@ -25,12 +25,10 @@ personal life can flourish.
 [GetMentor]: https://jointo.space/kamilsk/getmentor
 
 - 😤 I'm currently working on [Sparkle][].
-- 🤗 I'm looking to collaborate on PKM[^1].
-- 😎 I'm looking for a partnership for [Space][].
+- 🤗 I'm looking to collaborate on [Space][].
+- 😎 I'm open to acquaintances and partnerships.
 
 [Space]: https://jointo.space/
-
-[^1]: Personal Knowledge Management.
 
 ## Latest contributions
 
