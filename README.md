@@ -34,8 +34,6 @@ personal life can flourish.
 
 ## Latest contributions
 
-### Releases
-
 | Date           | Release                             |
 |:---------------|:------------------------------------|
 | **2023-12-02** | 🌱 [lifeos.company][]               |
@@ -67,20 +65,6 @@ personal life can flourish.
 [sparkle/service, v0.3.1]:      https://github.com/withsparkle/service/releases/tag/v0.3.1
 [tact/web, v0.3.0]:             https://github.com/tact-app/web/releases/tag/v0.3.0
 [tact/web, v0.4.0]:             https://github.com/tact-app/web/releases/tag/v0.4.0
-
-### Researches
-
-- [Documentation inventory research](https://github.com/under-the-hood/docs).
-- [Full-text search engines research](https://github.com/under-the-hood/search).
-- [Go Markdown research](https://github.com/under-the-hood/go-markdown).
-- [Go YAML research](https://github.com/under-the-hood/go-yaml).
-- [LLM and GPT research](https://github.com/under-the-hood/persona).
-
-### Maintained forks
-
-- [godownloader](https://godownloader.octolab.org/).
-- [goimports](https://goimports.octolab.org/).
-- [golangci-lint](https://golangci-lint.octolab.org/).
 
 ## Join my space
 
