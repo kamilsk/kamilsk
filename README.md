@@ -1,5 +1,6 @@
 # Hi, I'm Kamil 👋
 
+<!--
 <a href="https://jointo.space/kamilsk" target="_blank">
   <img align="right" width="350" alt="join to my space"
        src="https://cdn.octolab.org/misc/qr-jtms.png" />
@@ -17,6 +18,7 @@ the complexities of modern life. By creating two products, [Sparkle][] and
 knowledge management. These tools are my commitment to elevating my life and
 empowering others to do the same, fostering a community where work and
 personal life can flourish.
+-->
 
 [OctoLab]:   https://www.octolab.org/
 [LifeOS]:    https://lifeos.company/
@@ -24,7 +26,7 @@ personal life can flourish.
 [Tact]:      https://tact.run/
 [GetMentor]: https://jointo.space/kamilsk/getmentor
 
-- 😤 I'm currently working on [Sparkle][].
+- 😤 I'm currently working on [LifeOS][], [Sparkle][], and [Tact][].
 - 🤗 I'm looking to collaborate on [Space][].
 - 😎 I'm open to acquaintances and partnerships.
 
@@ -32,37 +34,24 @@ personal life can flourish.
 
 ## Latest contributions
 
-| Date           | Release                             |
-|:---------------|:------------------------------------|
-| **2023-12-02** | 🌱 [lifeos.company][]               |
-| **2023-11-30** | 🧑‍🚀 [jointo.space][]              |
-| **2023-11-25** | ✨ [sparkle/service, v0.3.1][]       |
-| **2023-11-25** | 🌱 [lifeos/whisper, v20231117][]    |
-| **2023-11-21** | ✨ [sparkle/service, v0.3.0][]       |
-| **2023-11-14** | ✨ [sparkle/service, v0.2.4][]       |
-| **2023-11-14** | ✨ [sparkle/service, v0.2.3][]       |
-| **2023-10-30** | ✨ [sparkle/service, v0.2.0][]       |
-| **2023-10-29** | ✨ [sparkle/service, v0.1.2][]       |
-| **2023-10-26** | ✨ [sparkle/service, v0.1.1][]       |
-| **2023-10-25** | ✨ [sparkle/service, v0.1.0][]       |
-| **2023-08-22** | 🤺 [tact/web, v0.4.0][]             |
-| **2023-05-12** | 🤺 [tact/web, v0.3.0][]             |
-| **2023-04-24** | 🧩 [octomation/go-module, v1.0.0][] |
+| Year     | Project                  | Releases                          |
+|:---------|:-------------------------|:----------------------------------|
+| 2026-04-17 | ✊ [breakout][] | [v0.2.0][ob020] |
+| **2023** | [sparkle/service][]      | [v0.1.0][ss010] – [v0.3.1][ss031] |
+|          | [tact/web][]             | [v0.3.0][tw030] – [v0.4.0][tw040] |
+|          | [octomation/go-module][] | [v1.0.0][ogm100]                  |
 
-[jointo.space]:                 https://jointo.space/
-[lifeos.company]:               https://lifeos.company/
-[lifeos/whisper, v20231117]:    https://github.com/lifeosm/whisper/releases/tag/v20231117
-[octomation/go-module, v1.0.0]: https://github.com/octomation/go-module/releases/tag/v1.0.0
-[sparkle/service, v0.1.0]:      https://github.com/withsparkle/service/releases/tag/v0.1.0
-[sparkle/service, v0.1.1]:      https://github.com/withsparkle/service/releases/tag/v0.1.1
-[sparkle/service, v0.1.2]:      https://github.com/withsparkle/service/releases/tag/v0.1.2
-[sparkle/service, v0.2.0]:      https://github.com/withsparkle/service/releases/tag/v0.2.0
-[sparkle/service, v0.2.3]:      https://github.com/withsparkle/service/releases/tag/v0.2.3
-[sparkle/service, v0.2.4]:      https://github.com/withsparkle/service/releases/tag/v0.2.4
-[sparkle/service, v0.3.0]:      https://github.com/withsparkle/service/releases/tag/v0.3.0
-[sparkle/service, v0.3.1]:      https://github.com/withsparkle/service/releases/tag/v0.3.1
-[tact/web, v0.3.0]:             https://github.com/tact-app/web/releases/tag/v0.3.0
-[tact/web, v0.4.0]:             https://github.com/tact-app/web/releases/tag/v0.4.0
+[breakout]:             https://github.com/octomation/breakout
+[octomation/go-module]: https://github.com/octomation/go-module
+[sparkle/service]:      https://github.com/withsparkle/service
+[tact/web]:             https://github.com/tact-app/web
+
+[ob020]:  https://github.com/octomation/breakout/releases/tag/v0.2.0
+[ogm100]: https://github.com/octomation/go-module/releases/tag/v1.0.0
+[ss010]:  https://github.com/withsparkle/service/releases/tag/v0.1.0
+[ss031]:  https://github.com/withsparkle/service/releases/tag/v0.3.1
+[tw030]:  https://github.com/tact-app/web/releases/tag/v0.3.0
+[tw040]:  https://github.com/tact-app/web/releases/tag/v0.4.0
 
 ## Join my space
 
