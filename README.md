@@ -34,12 +34,12 @@ personal life can flourish.
 
 ## Latest contributions
 
-| Year     | Project                  | Releases                          |
-|:---------|:-------------------------|:----------------------------------|
-| 2026-04-17 | ✊ [breakout][] | [v0.2.0][ob020] |
-| **2023** | [sparkle/service][]      | [v0.1.0][ss010] – [v0.3.1][ss031] |
-|          | [tact/web][]             | [v0.3.0][tw030] – [v0.4.0][tw040] |
-|          | [octomation/go-module][] | [v1.0.0][ogm100]                  |
+| Year         | Project                  | Releases                          | Notes                          |
+|:-------------|:-------------------------|:----------------------------------|:-------------------------------|
+| 2026-04-17   | ✊ [breakout][]          | [v0.2.0][ob020]                   | Telegram proxy with DPI bypass |
+| **2023**     | [sparkle/service][]      | [v0.1.0][ss010] – [v0.3.1][ss031] | -                              |
+|              | [tact/web][]             | [v0.3.0][tw030] – [v0.4.0][tw040] | -                              |
+|              | [octomation/go-module][] | [v1.0.0][ogm100]                  | -                              |
 
 [breakout]:             https://github.com/octomation/breakout
 [octomation/go-module]: https://github.com/octomation/go-module
