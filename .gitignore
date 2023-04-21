@@ -1,26 +1,2 @@
 # sparkle
 .github/notes
-
-
-
-# build output
-dist/
-
-# dependencies
-node_modules/
-
-# generated types
-.astro/
-*.d.ts
-
-# logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-
-# sensitive data
-.env
-.env.production
-.sentryclirc
-http-client.private.env.json

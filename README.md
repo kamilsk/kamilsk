@@ -36,7 +36,8 @@ personal life can flourish.
 
 | Date         | Project                     | Releases                          | Notes                          |
 |:-------------|:----------------------------|:----------------------------------|:-------------------------------|
-| 2026-05-06   | 🗃️ [research/indexit][]     | -                                 | Research CocoIndex project     |
+| 2026-05-07   | 🗃️ [research/indexit][]     | -                                 | Research [qmd][] project       |
+| 2026-05-06   | 🗃️ [research/indexit][]     | -                                 | Research [CocoIndex][] project |
 | 2026-04-17   | ✊ [breakout][]             | [v0.2.0][ob020]                   | Telegram proxy with DPI bypass |
 | **2023**     | ✨ [sparkle/service][]      | [v0.1.0][ss010] – [v0.3.1][ss031] | Experiments with Sparkle CLI   |
 |              | 🖥️ [tact/web][]             | [v0.3.0][tw030] – [v0.4.0][tw040] | Bug fixing and improvements    |
@@ -54,6 +55,9 @@ personal life can flourish.
 [ss031]:  https://github.com/withsparkle/service/releases/tag/v0.3.1
 [tw030]:  https://github.com/tact-app/web/releases/tag/v0.3.0
 [tw040]:  https://github.com/tact-app/web/releases/tag/v0.4.0
+
+[CocoIndex]:  https://github.com/cocoindex-io/cocoindex
+[qmd]:        https://github.com/tobi/qmd
 
 ## Join my space
 
