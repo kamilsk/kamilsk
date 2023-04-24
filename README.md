@@ -36,6 +36,7 @@ personal life can flourish.
 
 | Date         | Project                     | Releases                          | Notes                          |
 |:-------------|:----------------------------|:----------------------------------|:-------------------------------|
+| 2026-05-08   | 🗃️ [research/indexit][]     | -                                 | Research [Mirage][] project    |
 | 2026-05-07   | 🗃️ [research/indexit][]     | -                                 | Research [qmd][] project       |
 | 2026-05-06   | 🗃️ [research/indexit][]     | -                                 | Research [CocoIndex][] project |
 | 2026-04-17   | ✊ [breakout][]             | [v0.2.0][ob020]                   | Telegram proxy with DPI bypass |
@@ -57,6 +58,7 @@ personal life can flourish.
 [tw040]:  https://github.com/tact-app/web/releases/tag/v0.4.0
 
 [CocoIndex]:  https://github.com/cocoindex-io/cocoindex
+[Mirage]:     https://github.com/strukto-ai/mirage
 [qmd]:        https://github.com/tobi/qmd
 
 ## Join my space
