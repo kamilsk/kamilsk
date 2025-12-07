@@ -1,36 +1,17 @@
 # Hi, I'm Kamil 👋
 
-<!--
-<a href="https://jointo.space/kamilsk" target="_blank">
-  <img align="right" width="350" alt="join to my space"
-       src="https://cdn.octolab.org/misc/qr-jtms.png" />
-</a>
+I'm building [OctoLab][], an open-source ecosystem of developer tools,
+automation, and small products. I research what already works, build what
+I'm missing, and share the results — from Go libraries to tools and
+[skills for coding agents][Skills].
 
-- A micro-entrepreneur and founder of [OctoLab][].
-- A creator of [LifeOS][], [Sparkle][], and [Tact][].
-- An open-source enthusiast and [mentor][GetMentor].
+After years of leading engineering teams, I'm moving from people management
+to agent management. These days, I spend more time giving agents context,
+shaping tasks, and reviewing their work. It's how I'm bringing long-standing
+project ideas to life, while staying close to the code.
 
-As a founder, my dream has always been to balance cherishing moments
-with my family and achieve substantial success professionally.
-This vision led me to conceive [LifeOS][], a system designed to navigate
-the complexities of modern life. By creating two products, [Sparkle][] and
-[Tact][], I’ve aimed to encapsulate the essence of efficiency and
-knowledge management. These tools are my commitment to elevating my life and
-empowering others to do the same, fostering a community where work and
-personal life can flourish.
--->
-
-[OctoLab]:   https://www.octolab.org/
-[LifeOS]:    https://lifeos.company/
-[Sparkle]:   https://sparkle.wiki/
-[Tact]:      https://tact.run/
-[GetMentor]: https://jointo.space/kamilsk/getmentor
-
-- 😤 I'm currently working on [LifeOS][], [Sparkle][], and [Tact][].
-- 🤗 I'm looking to collaborate on [Space][].
-- 😎 I'm open to acquaintances and partnerships.
-
-[Space]: https://jointo.space/
+[OctoLab]: https://github.com/octolab
+[Skills]: https://github.com/octolab/skills
 
 ## Latest contributions
 
@@ -51,6 +32,7 @@ personal life can flourish.
 |              | 🖥️ [tact/web][]             | [v0.3.0][tw030]...[v0.4.0][tw040] | Bug fixing and improvements               |
 |              | 🧩 [octomation/go-module][] | [v1.0.0][ogm100]                  | First stable template version             |
 
+<!-- projects -->
 [breakout]:             https://github.com/octomation/breakout
 [indexit]:              https://github.com/octopot/indexit
 [maintainer]:           https://github.com/octomation/maintainer
@@ -60,6 +42,7 @@ personal life can flourish.
 [sparkle/service]:      https://github.com/withsparkle/service
 [tact/web]:             https://github.com/tact-app/web
 
+<!-- releases -->
 [ob020]:  https://github.com/octomation/breakout/releases/tag/v0.2.0
 [oi010]:  https://github.com/octopot/indexit/releases/tag/v0.1.0
 [oi011]:  https://github.com/octopot/indexit/releases/tag/v0.1.1
@@ -71,6 +54,7 @@ personal life can flourish.
 [tw030]:  https://github.com/tact-app/web/releases/tag/v0.3.0
 [tw040]:  https://github.com/tact-app/web/releases/tag/v0.4.0
 
+<!-- research -->
 [CocoIndex]:  https://github.com/cocoindex-io/cocoindex
 [Mirage]:     https://github.com/strukto-ai/mirage
 [qmd]:        https://github.com/tobi/qmd
