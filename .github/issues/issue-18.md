@@ -1,13 +1,18 @@
 ---
-id: 18
-database_id: 1330086863
-node_id: I_kwDOESkaDc5PR4PP
-status: open
+code:
+id: I_kwDOESkaDc5PR4PP
+databaseId: 1330086863
+number: 18
+url: https://github.com/kamilsk/kamilsk/issues/18
 title: "cv: ru: review OctoNus experience"
 labels: []
-url: https://github.com/kamilsk/kamilsk/issues/18
-created_at: 2022-08-05T15:34:18Z
-updated_at: 2022-08-05T15:34:19Z
+milestone:
+state: OPEN
+stateReason:
+createdAt: 2022-08-05T15:34:18Z
+updatedAt: 2022-08-05T15:34:19Z
+lastEditedAt:
+closedAt:
 ---
 
 # cv: ru: review OctoNus experience

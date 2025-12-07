@@ -1,13 +1,18 @@
 ---
-id: 9
-database_id: 1319561138
-node_id: I_kwDOESkaDc5Opuey
-status: closed
+code:
+id: I_kwDOESkaDc5Opuey
+databaseId: 1319561138
+number: 9
+url: https://github.com/kamilsk/kamilsk/issues/9
 title: "cv: remove some recommendation references"
 labels: []
-url: https://github.com/kamilsk/kamilsk/issues/9
-created_at: 2022-07-27T13:23:29Z
-updated_at: 2022-07-29T19:16:11Z
+milestone:
+state: CLOSED
+stateReason: COMPLETED
+createdAt: 2022-07-27T13:23:29Z
+updatedAt: 2022-07-29T19:16:11Z
+lastEditedAt:
+closedAt: 2022-07-29T19:16:11Z
 ---
 
 # cv: remove some recommendation references

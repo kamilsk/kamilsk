@@ -1,13 +1,18 @@
 ---
-id: 16
-database_id: 1330085571
-node_id: I_kwDOESkaDc5PR37D
-status: open
+code:
+id: I_kwDOESkaDc5PR37D
+databaseId: 1330085571
+number: 16
+url: https://github.com/kamilsk/kamilsk/issues/16
 title: "cv: ru: review Leads experience"
 labels: []
-url: https://github.com/kamilsk/kamilsk/issues/16
-created_at: 2022-08-05T15:33:05Z
-updated_at: 2022-08-05T15:33:05Z
+milestone:
+state: OPEN
+stateReason:
+createdAt: 2022-08-05T15:33:05Z
+updatedAt: 2022-08-05T15:33:05Z
+lastEditedAt:
+closedAt:
 ---
 
 # cv: ru: review Leads experience

@@ -1,13 +1,18 @@
 ---
-id: 17
-database_id: 1330086239
-node_id: I_kwDOESkaDc5PR4Ff
-status: open
+code:
+id: I_kwDOESkaDc5PR4Ff
+databaseId: 1330086239
+number: 17
+url: https://github.com/kamilsk/kamilsk/issues/17
 title: "cv: ru: review Enter experience"
 labels: []
-url: https://github.com/kamilsk/kamilsk/issues/17
-created_at: 2022-08-05T15:33:42Z
-updated_at: 2022-08-05T15:33:42Z
+milestone:
+state: OPEN
+stateReason:
+createdAt: 2022-08-05T15:33:42Z
+updatedAt: 2022-08-05T15:33:42Z
+lastEditedAt:
+closedAt:
 ---
 
 # cv: ru: review Enter experience

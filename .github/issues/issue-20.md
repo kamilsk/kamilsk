@@ -1,13 +1,18 @@
 ---
-id: 20
-database_id: 1330088824
-node_id: I_kwDOESkaDc5PR4t4
-status: open
+code:
+id: I_kwDOESkaDc5PR4t4
+databaseId: 1330088824
+number: 20
+url: https://github.com/kamilsk/kamilsk/issues/20
 title: "cv: ru: review startups experience"
 labels: []
-url: https://github.com/kamilsk/kamilsk/issues/20
-created_at: 2022-08-05T15:36:01Z
-updated_at: 2022-08-05T15:36:01Z
+milestone:
+state: OPEN
+stateReason:
+createdAt: 2022-08-05T15:36:01Z
+updatedAt: 2022-08-05T15:36:01Z
+lastEditedAt:
+closedAt:
 ---
 
 # cv: ru: review startups experience

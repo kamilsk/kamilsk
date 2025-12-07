@@ -1,13 +1,18 @@
 ---
-id: 2
-database_id: 1226414066
-node_id: I_kwDOESkaDc5JGZfy
-status: closed
+code:
+id: I_kwDOESkaDc5JGZfy
+databaseId: 1226414066
+number: 2
+url: https://github.com/kamilsk/kamilsk/issues/2
 title: "org: archive inactive repositories"
 labels: []
-url: https://github.com/kamilsk/kamilsk/issues/2
-created_at: 2022-05-05T09:15:17Z
-updated_at: 2022-05-20T20:48:07Z
+milestone:
+state: CLOSED
+stateReason: COMPLETED
+createdAt: 2022-05-05T09:15:17Z
+updatedAt: 2022-05-20T20:48:07Z
+lastEditedAt: 2022-05-20T20:47:56Z
+closedAt: 2022-05-20T20:48:07Z
 ---
 
 # org: archive inactive repositories

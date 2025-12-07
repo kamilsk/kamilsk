@@ -1,13 +1,18 @@
 ---
-id: 14
-database_id: 1330083746
-node_id: I_kwDOESkaDc5PR3ei
-status: open
+code:
+id: I_kwDOESkaDc5PR3ei
+databaseId: 1330083746
+number: 14
+url: https://github.com/kamilsk/kamilsk/issues/14
 title: "cv: ru: complete Lazada section"
 labels: []
-url: https://github.com/kamilsk/kamilsk/issues/14
-created_at: 2022-08-05T15:31:14Z
-updated_at: 2022-08-05T15:31:15Z
+milestone:
+state: OPEN
+stateReason:
+createdAt: 2022-08-05T15:31:14Z
+updatedAt: 2022-08-05T15:31:15Z
+lastEditedAt:
+closedAt:
 ---
 
 # cv: ru: complete Lazada section

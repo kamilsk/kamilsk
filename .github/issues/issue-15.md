@@ -1,13 +1,18 @@
 ---
-id: 15
-database_id: 1330085084
-node_id: I_kwDOESkaDc5PR3zc
-status: open
+code:
+id: I_kwDOESkaDc5PR3zc
+databaseId: 1330085084
+number: 15
+url: https://github.com/kamilsk/kamilsk/issues/15
 title: "cv: ru: review start career"
 labels: []
-url: https://github.com/kamilsk/kamilsk/issues/15
-created_at: 2022-08-05T15:32:33Z
-updated_at: 2022-08-05T15:32:33Z
+milestone:
+state: OPEN
+stateReason:
+createdAt: 2022-08-05T15:32:33Z
+updatedAt: 2022-08-05T15:32:33Z
+lastEditedAt:
+closedAt:
 ---
 
 # cv: ru: review start career

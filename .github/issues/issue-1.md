@@ -1,13 +1,18 @@
 ---
-id: 1
-database_id: 946788137
-node_id: MDU6SXNzdWU5NDY3ODgxMzc=
-status: closed
+code:
+id: MDU6SXNzdWU5NDY3ODgxMzc=
+databaseId: 946788137
+number: 1
+url: https://github.com/kamilsk/kamilsk/issues/1
 title: "research Google style guides"
 labels: []
-url: https://github.com/kamilsk/kamilsk/issues/1
-created_at: 2021-07-17T10:37:23Z
-updated_at: 2022-05-18T20:58:45Z
+milestone:
+state: CLOSED
+stateReason: COMPLETED
+createdAt: 2021-07-17T10:37:23Z
+updatedAt: 2022-05-18T20:58:45Z
+lastEditedAt:
+closedAt: 2022-05-18T20:58:45Z
 ---
 
 # research Google style guides
@@ -18,3 +23,7 @@ updated_at: 2022-05-18T20:58:45Z
 - https://google.github.io/styleguide/tsguide.html
 - https://google.github.io/styleguide/shellguide.html
 - https://github.com/golang/go/wiki/CodeReviewComments
+
+<!-- 2022-05-18T20:58Z https://github.com/kamilsk/kamilsk/issues/1#issuecomment-1130541009
+won't do
+-->
