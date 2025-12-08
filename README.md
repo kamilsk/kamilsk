@@ -17,6 +17,8 @@ project ideas to life, while staying close to the code.
 
 | Date         | Project                     | Releases                          | Notes                                     |
 |:-------------|:----------------------------|:----------------------------------|:------------------------------------------|
+| 2026-10-06   | 🗃️ [indexit][]              | [v0.2.1][oi021]                   | Telegram chats by membership and role     |
+| 2026-10-04   | 🗃️ [indexit][]              | [v0.2.0][oi020]                   | Telegram channel cards and an agent skill |
 | 2026-10-02   | 🗃️ [indexit][]              | [v0.1.1][oi011], [v0.1.2][oi012]  | Telegram exports without duplicates       |
 | 2026-09-25   | 👨‍🔧 [maintainer][]           | [v0.1.0][om010]                   | Contribution calendar planning in CLI     |
 | 2026-09-23   | 🗃️ [indexit][]              | [v0.1.0][oi010]                   | Telegram chat export and media downloads  |
@@ -47,6 +49,8 @@ project ideas to life, while staying close to the code.
 [oi010]:  https://github.com/octopot/indexit/releases/tag/v0.1.0
 [oi011]:  https://github.com/octopot/indexit/releases/tag/v0.1.1
 [oi012]:  https://github.com/octopot/indexit/releases/tag/v0.1.2
+[oi020]:  https://github.com/octopot/indexit/releases/tag/v0.2.0
+[oi021]:  https://github.com/octopot/indexit/releases/tag/v0.2.1
 [om010]:  https://github.com/octomation/maintainer/releases/tag/v0.1.0
 [ogm100]: https://github.com/octomation/go-module/releases/tag/v1.0.0
 [ss010]:  https://github.com/withsparkle/service/releases/tag/v0.1.0
