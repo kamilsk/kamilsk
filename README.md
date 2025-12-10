@@ -17,6 +17,15 @@ project ideas to life, while staying close to the code.
 
 | Date         | Project                     | Releases                          | Notes                                     |
 |:-------------|:----------------------------|:----------------------------------|:------------------------------------------|
+| 2026-10-22   | 🗃️ [indexit][]              | [v0.4.0][oi040]                   | Whole albums, photos shared across Macs   |
+| 2026-10-21   | 👨‍🔧 [maintainer][]           | [v0.3.0][om030]                   | One local hub for checkouts and issues    |
+| 2026-10-21   | 🗃️ [indexit][]              | [v0.3.1][oi031]                   | A dashboard of the photos on your Mac     |
+| 2026-10-20   | 👨‍🔧 [maintainer][]           | [v0.2.1][om021]                   | Safer fetch, status summary, agent skill  |
+| 2026-10-20   | 🗃️ [indexit][]              | [v0.3.0][oi030]                   | Telegram photos that stay in your notes   |
+| 2026-10-19   | 👨‍🔧 [maintainer][]           | [v0.2.0][om020]                   | Checkout status and refresh from GitHub   |
+| 2026-10-18   | 🗃️ [indexit][]              | [v0.2.2][oi022], [v0.2.3][oi023]  | People and bot cards, skill checks        |
+| 2026-10-06   | 🗃️ [indexit][]              | [v0.2.1][oi021]                   | Telegram chats by membership and role     |
+| 2026-10-04   | 🗃️ [indexit][]              | [v0.2.0][oi020]                   | Telegram channel cards and an agent skill |
 | 2026-10-02   | 🗃️ [indexit][]              | [v0.1.1][oi011], [v0.1.2][oi012]  | Telegram exports without duplicates       |
 | 2026-09-25   | 👨‍🔧 [maintainer][]           | [v0.1.0][om010]                   | Contribution calendar planning in CLI     |
 | 2026-09-23   | 🗃️ [indexit][]              | [v0.1.0][oi010]                   | Telegram chat export and media downloads  |
@@ -47,7 +56,17 @@ project ideas to life, while staying close to the code.
 [oi010]:  https://github.com/octopot/indexit/releases/tag/v0.1.0
 [oi011]:  https://github.com/octopot/indexit/releases/tag/v0.1.1
 [oi012]:  https://github.com/octopot/indexit/releases/tag/v0.1.2
+[oi020]:  https://github.com/octopot/indexit/releases/tag/v0.2.0
+[oi021]:  https://github.com/octopot/indexit/releases/tag/v0.2.1
+[oi022]:  https://github.com/octopot/indexit/releases/tag/v0.2.2
+[oi023]:  https://github.com/octopot/indexit/releases/tag/v0.2.3
+[oi030]:  https://github.com/octopot/indexit/releases/tag/v0.3.0
+[oi031]:  https://github.com/octopot/indexit/releases/tag/v0.3.1
+[oi040]:  https://github.com/octopot/indexit/releases/tag/v0.4.0
 [om010]:  https://github.com/octomation/maintainer/releases/tag/v0.1.0
+[om020]:  https://github.com/octomation/maintainer/releases/tag/v0.2.0
+[om021]:  https://github.com/octomation/maintainer/releases/tag/v0.2.1
+[om030]:  https://github.com/octomation/maintainer/releases/tag/v0.3.0
 [ogm100]: https://github.com/octomation/go-module/releases/tag/v1.0.0
 [ss010]:  https://github.com/withsparkle/service/releases/tag/v0.1.0
 [ss031]:  https://github.com/withsparkle/service/releases/tag/v0.3.1
