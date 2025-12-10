@@ -1,14 +1,20 @@
 ---
-code:
+code: null
 id: I_kwDOESkaDc5Ll4hp
 databaseId: 1268222057
 number: 6
 url: https://github.com/kamilsk/kamilsk/issues/6
 title: "contribution: add mapstructure pull request to the list"
+issueType: null
 labels: []
-milestone:
+assignees:
+  - kamilsk
+milestone: null
+parent: null
+issueFields: {}
 state: CLOSED
 stateReason: COMPLETED
+duplicateOf: null
 createdAt: 2022-06-11T09:48:09Z
 updatedAt: 2022-07-07T20:01:17Z
 lastEditedAt: 2022-06-11T09:50:16Z

@@ -1,17 +1,23 @@
 ---
-code:
+code: null
 id: I_kwDOESkaDc5J8GSV
 databaseId: 1240491157
 number: 5
 url: https://github.com/kamilsk/kamilsk/issues/5
 title: "org: port repos from octolabot back"
+issueType: null
 labels: []
-milestone:
+assignees:
+  - kamilsk
+milestone: null
+parent: null
+issueFields: {}
 state: CLOSED
 stateReason: COMPLETED
+duplicateOf: null
 createdAt: 2022-05-18T20:35:20Z
 updatedAt: 2022-05-20T21:14:18Z
-lastEditedAt:
+lastEditedAt: null
 closedAt: 2022-05-20T21:14:18Z
 ---
 

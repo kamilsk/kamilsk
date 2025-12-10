@@ -1,17 +1,23 @@
 ---
-code:
+code: null
 id: I_kwDOESkaDc5Ll4mt
 databaseId: 1268222381
 number: 7
 url: https://github.com/kamilsk/kamilsk/issues/7
 title: "contribution: add go-toml pull request to the list"
+issueType: null
 labels: []
-milestone:
+assignees:
+  - kamilsk
+milestone: null
+parent: null
+issueFields: {}
 state: CLOSED
 stateReason: COMPLETED
+duplicateOf: null
 createdAt: 2022-06-11T09:49:57Z
 updatedAt: 2022-07-07T19:57:35Z
-lastEditedAt:
+lastEditedAt: null
 closedAt: 2022-07-07T19:57:34Z
 ---
 

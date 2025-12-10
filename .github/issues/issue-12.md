@@ -1,17 +1,23 @@
 ---
-code:
+code: null
 id: I_kwDOESkaDc5OpwLl
 databaseId: 1319568101
 number: 12
 url: https://github.com/kamilsk/kamilsk/issues/12
 title: "cv: review tech radar"
+issueType: null
 labels: []
-milestone:
+assignees:
+  - kamilsk
+milestone: null
+parent: null
+issueFields: {}
 state: CLOSED
 stateReason: COMPLETED
+duplicateOf: null
 createdAt: 2022-07-27T13:28:34Z
 updatedAt: 2022-08-01T18:43:01Z
-lastEditedAt:
+lastEditedAt: null
 closedAt: 2022-08-01T18:43:01Z
 ---
 

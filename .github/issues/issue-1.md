@@ -1,17 +1,23 @@
 ---
-code:
+code: null
 id: MDU6SXNzdWU5NDY3ODgxMzc=
 databaseId: 946788137
 number: 1
 url: https://github.com/kamilsk/kamilsk/issues/1
 title: "research Google style guides"
+issueType: null
 labels: []
-milestone:
+assignees:
+  - kamilsk
+milestone: null
+parent: null
+issueFields: {}
 state: CLOSED
 stateReason: COMPLETED
+duplicateOf: null
 createdAt: 2021-07-17T10:37:23Z
 updatedAt: 2022-05-18T20:58:45Z
-lastEditedAt:
+lastEditedAt: null
 closedAt: 2022-05-18T20:58:45Z
 ---
 

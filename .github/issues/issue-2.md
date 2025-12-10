@@ -1,14 +1,20 @@
 ---
-code:
+code: null
 id: I_kwDOESkaDc5JGZfy
 databaseId: 1226414066
 number: 2
 url: https://github.com/kamilsk/kamilsk/issues/2
 title: "org: archive inactive repositories"
+issueType: null
 labels: []
-milestone:
+assignees:
+  - kamilsk
+milestone: null
+parent: null
+issueFields: {}
 state: CLOSED
 stateReason: COMPLETED
+duplicateOf: null
 createdAt: 2022-05-05T09:15:17Z
 updatedAt: 2022-05-20T20:48:07Z
 lastEditedAt: 2022-05-20T20:47:56Z
