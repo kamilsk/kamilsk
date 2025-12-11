@@ -17,6 +17,7 @@ project ideas to life, while staying close to the code.
 
 | Date         | Project                     | Releases                          | Notes                                     |
 |:-------------|:----------------------------|:----------------------------------|:------------------------------------------|
+| 2026-11-12   | 🤴 [vanity][]               | revived                           | go.octolab.org is back, 31 modules live   |
 | 2026-11-08   | 🗃️ [indexit][]              | [v0.4.1][oi041]                   | Every Telegram dialog with its own date   |
 | 2026-11-07   | 👨‍🔧 [maintainer][]           | [v0.4.0][om040], [v0.4.1][om041]  | Calendar days as on the GitHub profile    |
 | 2026-10-22   | 🗃️ [indexit][]              | [v0.4.0][oi040]                   | Whole albums, photos shared across Macs   |
@@ -28,16 +29,12 @@ project ideas to life, while staying close to the code.
 | 2026-10-18   | 🗃️ [indexit][]              | [v0.2.2][oi022], [v0.2.3][oi023]  | People and bot cards, skill checks        |
 | 2026-10-06   | 🗃️ [indexit][]              | [v0.2.1][oi021]                   | Telegram chats by membership and role     |
 | 2026-10-04   | 🗃️ [indexit][]              | [v0.2.0][oi020]                   | Telegram channel cards and an agent skill |
+| 2026-10-04   | 🧑‍🔧 [skills][]               | init                              | Agent skills catalog for OctoLab tools    |
 | 2026-10-02   | 🗃️ [indexit][]              | [v0.1.1][oi011], [v0.1.2][oi012]  | Telegram exports without duplicates       |
 | 2026-09-25   | 👨‍🔧 [maintainer][]           | [v0.1.0][om010]                   | Contribution calendar planning in CLI     |
 | 2026-09-23   | 🗃️ [indexit][]              | [v0.1.0][oi010]                   | Telegram chat export and media downloads  |
-| 2026-08-03   | 🪨 [research/obsidian][]    | -                                 | Create kanbal skill for Kanban plugin     |
-| 2026-08-01   | 🪨 [research/obsidian][]    | -                                 | Create Obsidian Developer skill           |
-| 2026-07-26   | 🪨 [research/obsidian][]    | -                                 | Create dataview skill for Dataview plugin |
-| 2026-07-25   | 🪨 [research/obsidian][]    | -                                 | Create tasks skill for Tasks plugin       |
-| 2026-05-08   | 🗃️ [research/indexit][]     | -                                 | Research [Mirage][] project               |
-| 2026-05-07   | 🗃️ [research/indexit][]     | -                                 | Research [qmd][] project                  |
-| 2026-05-06   | 🗃️ [research/indexit][]     | -                                 | Research [CocoIndex][] project            |
+| 2026-07-25   | 🪨 [research/obsidian][]    | init                              | Obsidian plugins and themes research      |
+| 2026-05-06   | 🗃️ [research/indexit][]     | init                              | Agent indexing and retrieval research     |
 | 2026-04-17   | ✊ [breakout][]             | [v0.2.0][ob020]                   | Telegram proxy with DPI bypass            |
 | **2023**     | ✨ [sparkle/service][]      | [v0.1.0][ss010]...[v0.3.1][ss031] | Experiments with Sparkle CLI              |
 |              | 🖥️ [tact/web][]             | [v0.3.0][tw030]...[v0.4.0][tw040] | Bug fixing and improvements               |
@@ -50,8 +47,10 @@ project ideas to life, while staying close to the code.
 [octomation/go-module]: https://github.com/octomation/go-module
 [research/indexit]:     https://github.com/octolaba/indexit
 [research/obsidian]:    https://github.com/octolaba/obsidian
+[skills]:               https://github.com/octolab/skills
 [sparkle/service]:      https://github.com/withsparkle/service
 [tact/web]:             https://github.com/tact-app/web
+[vanity]:               https://github.com/octolab/vanity
 
 <!-- releases -->
 [ob020]:  https://github.com/octomation/breakout/releases/tag/v0.2.0
@@ -77,11 +76,6 @@ project ideas to life, while staying close to the code.
 [ss031]:  https://github.com/withsparkle/service/releases/tag/v0.3.1
 [tw030]:  https://github.com/tact-app/web/releases/tag/v0.3.0
 [tw040]:  https://github.com/tact-app/web/releases/tag/v0.4.0
-
-<!-- research -->
-[CocoIndex]:  https://github.com/cocoindex-io/cocoindex
-[Mirage]:     https://github.com/strukto-ai/mirage
-[qmd]:        https://github.com/tobi/qmd
 
 ## Join my space
 
