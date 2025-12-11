@@ -17,6 +17,7 @@ project ideas to life, while staying close to the code.
 
 | Date         | Project                     | Releases                           | Notes                                     |
 |:-------------|:----------------------------|:-----------------------------------|:------------------------------------------|
+| 2026-11-17   | 🤴 [vanity-action][]        | [v0.1.0][ova010]                   | Go modules publish themselves on release  |
 | 2026-11-12   | 🤴 [vanity][]               | revived                            | go.octolab.org is back, 31 modules live   |
 | 2026-11-08   | 🗃️ [indexit][]              | [v0.4.1][oi041]                    | Every Telegram dialog with its own date   |
 | 2026-11-07   | 👨‍🔧 [maintainer][]           | [v0.4.0][om040], [v0.4.1][om041]   | Calendar days as on the GitHub profile    |
@@ -27,7 +28,7 @@ project ideas to life, while staying close to the code.
 | -            | 🗃️ [indexit][]              | [v0.3.0][oi030]                    | Telegram photos that stay in your notes   |
 | 2026-10-19   | 👨‍🔧 [maintainer][]           | [v0.2.0][om020]                    | Checkout status and refresh from GitHub   |
 | 2026-10-18   | 🗃️ [indexit][]              | [v0.2.2][oi022], [v0.2.3][oi023]   | People and bot cards, skill checks        |
-| -            | 📦 [skills-action][]        | [v0.1.0][osa010], [v0.1.1][osa011] | Tool releases publish their agent skills  |
+| -            | 📚 [skills-action][]        | [v0.1.0][osa010], [v0.1.1][osa011] | Tool releases publish their agent skills  |
 | 2026-10-06   | 🗃️ [indexit][]              | [v0.2.1][oi021]                    | Telegram chats by membership and role     |
 | 2026-10-04   | 🗃️ [indexit][]              | [v0.2.0][oi020]                    | Telegram channel cards and an agent skill |
 | -            | 📚 [skills][]               | init                               | Agent skills catalog for OctoLab tools    |
@@ -53,6 +54,7 @@ project ideas to life, while staying close to the code.
 [sparkle/service]:      https://github.com/withsparkle/service
 [tact/web]:             https://github.com/tact-app/web
 [vanity]:               https://github.com/octolab/vanity
+[vanity-action]:        https://github.com/octomation/vanity-action
 
 <!-- releases -->
 [ob020]:  https://github.com/octomation/breakout/releases/tag/v0.2.0
@@ -76,6 +78,7 @@ project ideas to life, while staying close to the code.
 [osa010]: https://github.com/octomation/skills-action/releases/tag/v0.1.0
 [osa011]: https://github.com/octomation/skills-action/releases/tag/v0.1.1
 [ogm100]: https://github.com/octomation/go-module/releases/tag/v1.0.0
+[ova010]: https://github.com/octomation/vanity-action/releases/tag/v0.1.0
 [ss010]:  https://github.com/withsparkle/service/releases/tag/v0.1.0
 [ss031]:  https://github.com/withsparkle/service/releases/tag/v0.3.1
 [tw030]:  https://github.com/tact-app/web/releases/tag/v0.3.0
