@@ -17,6 +17,7 @@ project ideas to life, while staying close to the code.
 
 | Date         | Project                     | Releases                           | Notes                                     |
 |:-------------|:----------------------------|:-----------------------------------|:------------------------------------------|
+| 2026-11-18   | 🍣 [susi][]                 | [v0.1.0][os010], [v0.1.1][os011]   | A prompt composer one keystroke away      |
 | 2026-11-17   | 🤴 [vanity-action][]        | [v0.1.0][ova010]                   | Go modules publish themselves on release  |
 | 2026-11-12   | 🤴 [vanity][]               | revived                            | go.octolab.org is back, 31 modules live   |
 | 2026-11-08   | 🗃️ [indexit][]              | [v0.4.1][oi041]                    | Every Telegram dialog with its own date   |
@@ -52,6 +53,7 @@ project ideas to life, while staying close to the code.
 [skills]:               https://github.com/octolab/skills
 [skills-action]:        https://github.com/octomation/skills-action
 [sparkle/service]:      https://github.com/withsparkle/service
+[susi]:                 https://github.com/octopot/susi
 [tact/web]:             https://github.com/tact-app/web
 [vanity]:               https://github.com/octolab/vanity
 [vanity-action]:        https://github.com/octomation/vanity-action
@@ -75,6 +77,8 @@ project ideas to life, while staying close to the code.
 [om030]:  https://github.com/octomation/maintainer/releases/tag/v0.3.0
 [om040]:  https://github.com/octomation/maintainer/releases/tag/v0.4.0
 [om041]:  https://github.com/octomation/maintainer/releases/tag/v0.4.1
+[os010]:  https://github.com/octopot/susi/releases/tag/v0.1.0
+[os011]:  https://github.com/octopot/susi/releases/tag/v0.1.1
 [osa010]: https://github.com/octomation/skills-action/releases/tag/v0.1.0
 [osa011]: https://github.com/octomation/skills-action/releases/tag/v0.1.1
 [ogm100]: https://github.com/octomation/go-module/releases/tag/v1.0.0
