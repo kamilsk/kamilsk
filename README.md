@@ -17,6 +17,8 @@ project ideas to life, while staying close to the code.
 
 | Date         | Project                     | Releases                           | Notes                                     |
 |:-------------|:----------------------------|:-----------------------------------|:------------------------------------------|
+| 2026-11-21   | 👨‍🔧 [maintainer][]           | [v0.5.0][om050]                    | Down to checkouts, GitHub and the hub     |
+| 2026-11-20   | 📰 [pulse][]                | [v0.1.0][op010], [v0.1.1][op011]   | A morning paper of unseen GitHub trends   |
 | 2026-11-19   | 🍣 [sushi][]                | [v0.2.0][os020], [v0.2.1][os021]   | Caps Lock shows it, even over full screen |
 | 2026-11-18   | 🍣 [sushi][]                | [v0.1.0][os010], [v0.1.1][os011]   | A prompt composer one keystroke away      |
 | 2026-11-17   | 🤴 [vanity-action][]        | [v0.1.0][ova010]                   | Go modules publish themselves on release  |
@@ -49,6 +51,7 @@ project ideas to life, while staying close to the code.
 [indexit]:              https://github.com/octopot/indexit
 [maintainer]:           https://github.com/octomation/maintainer
 [octomation/go-module]: https://github.com/octomation/go-module
+[pulse]:                https://github.com/octomation/pulse
 [research/indexit]:     https://github.com/octolaba/indexit
 [research/obsidian]:    https://github.com/octolaba/obsidian
 [skills]:               https://github.com/octolab/skills
@@ -78,6 +81,9 @@ project ideas to life, while staying close to the code.
 [om030]:  https://github.com/octomation/maintainer/releases/tag/v0.3.0
 [om040]:  https://github.com/octomation/maintainer/releases/tag/v0.4.0
 [om041]:  https://github.com/octomation/maintainer/releases/tag/v0.4.1
+[om050]:  https://github.com/octomation/maintainer/releases/tag/v0.5.0
+[op010]:  https://github.com/octomation/pulse/releases/tag/v0.1.0
+[op011]:  https://github.com/octomation/pulse/releases/tag/v0.1.1
 [os010]:  https://github.com/octopot/sushi/releases/tag/v0.1.0
 [os011]:  https://github.com/octopot/sushi/releases/tag/v0.1.1
 [os020]:  https://github.com/octopot/sushi/releases/tag/v0.2.0
