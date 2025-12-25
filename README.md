@@ -17,7 +17,8 @@ project ideas to life, while staying close to the code.
 
 | Date         | Project                     | Releases                           | Notes                                     |
 |:-------------|:----------------------------|:-----------------------------------|:------------------------------------------|
-| 2026-11-27   | 📦 [install-action][]       | [v0.1.0][oia010]                   | Releases write their own curl installer   |
+| 2026-11-27   | 👨‍🔧 [maintainer][]           | [v0.6.2][om062]                    | Bounded status, readable histogram        |
+| ↳            | 📦 [install-action][]       | [v0.1.0][oia010]                   | Releases write their own curl installer   |
 | 2026-11-26   | 👨‍🔧 [maintainer][]           | [v0.6.0][om060], [v0.6.1][om061]   | Reviews in one form, from your agent      |
 | ↳            | 📚 [skills-action][]        | [v0.2.0][osa020], [v0.2.1][osa021] | One plugin now carries several skills     |
 | 2026-11-25   | 👨‍🔧 [maintainer][]           | [v0.5.1][om051], [v0.5.2][om052]   | Hub for your account, fixes as promised   |
@@ -94,6 +95,7 @@ project ideas to life, while staying close to the code.
 [om051]:  https://github.com/octomation/maintainer/releases/tag/v0.5.1
 [om052]:  https://github.com/octomation/maintainer/releases/tag/v0.5.2
 [om060]:  https://github.com/octomation/maintainer/releases/tag/v0.6.0
+[om062]:  https://github.com/octomation/maintainer/releases/tag/v0.6.2
 [om061]:  https://github.com/octomation/maintainer/releases/tag/v0.6.1
 [op010]:  https://github.com/octomation/pulse/releases/tag/v0.1.0
 [op011]:  https://github.com/octomation/pulse/releases/tag/v0.1.1
