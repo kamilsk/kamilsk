@@ -17,6 +17,7 @@ project ideas to life, while staying close to the code.
 
 | Date         | Project                     | Releases                           | Notes                                     |
 |:-------------|:----------------------------|:-----------------------------------|:------------------------------------------|
+| 2026-11-26   | 📚 [skills-action][]        | [v0.2.0][osa020], [v0.2.1][osa021] | One plugin now carries several skills     |
 | 2026-11-25   | 👨‍🔧 [maintainer][]           | [v0.5.1][om051], [v0.5.2][om052]   | Hub for your account, fixes as promised   |
 | 2026-11-24   | 🍣 [sushi][]                | [v0.3.0][os030], [v0.3.1][os031]   | Your model and settings, in one window    |
 | 2026-11-23   | 📰 [pulse][]                | [v0.2.0][op020], [v0.2.1][op021]   | Past mornings, and answers you can undo   |
@@ -101,6 +102,8 @@ project ideas to life, while staying close to the code.
 [os031]:  https://github.com/octopot/sushi/releases/tag/v0.3.1
 [osa010]: https://github.com/octomation/skills-action/releases/tag/v0.1.0
 [osa011]: https://github.com/octomation/skills-action/releases/tag/v0.1.1
+[osa020]: https://github.com/octomation/skills-action/releases/tag/v0.2.0
+[osa021]: https://github.com/octomation/skills-action/releases/tag/v0.2.1
 [ogm100]: https://github.com/octomation/go-module/releases/tag/v1.0.0
 [ova010]: https://github.com/octomation/vanity-action/releases/tag/v0.1.0
 [ss010]:  https://github.com/withsparkle/service/releases/tag/v0.1.0
