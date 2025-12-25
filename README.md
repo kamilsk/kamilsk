@@ -17,6 +17,7 @@ project ideas to life, while staying close to the code.
 
 | Date         | Project                     | Releases                           | Notes                                     |
 |:-------------|:----------------------------|:-----------------------------------|:------------------------------------------|
+| 2026-11-27   | 📦 [install-action][]       | [v0.1.0][oia010]                   | Releases write their own curl installer   |
 | 2026-11-26   | 👨‍🔧 [maintainer][]           | [v0.6.0][om060], [v0.6.1][om061]   | Reviews in one form, from your agent      |
 | ↳            | 📚 [skills-action][]        | [v0.2.0][osa020], [v0.2.1][osa021] | One plugin now carries several skills     |
 | 2026-11-25   | 👨‍🔧 [maintainer][]           | [v0.5.1][om051], [v0.5.2][om052]   | Hub for your account, fixes as promised   |
@@ -55,6 +56,7 @@ project ideas to life, while staying close to the code.
 <!-- projects -->
 [breakout]:             https://github.com/octomation/breakout
 [indexit]:              https://github.com/octopot/indexit
+[install-action]:       https://github.com/octomation/install-action
 [maintainer]:           https://github.com/octomation/maintainer
 [octomation/go-module]: https://github.com/octomation/go-module
 [pulse]:                https://github.com/octomation/pulse
@@ -108,6 +110,7 @@ project ideas to life, while staying close to the code.
 [osa020]: https://github.com/octomation/skills-action/releases/tag/v0.2.0
 [osa021]: https://github.com/octomation/skills-action/releases/tag/v0.2.1
 [ogm100]: https://github.com/octomation/go-module/releases/tag/v1.0.0
+[oia010]: https://github.com/octomation/install-action/releases/tag/v0.1.0
 [ova010]: https://github.com/octomation/vanity-action/releases/tag/v0.1.0
 [ss010]:  https://github.com/withsparkle/service/releases/tag/v0.1.0
 [ss031]:  https://github.com/withsparkle/service/releases/tag/v0.3.1
