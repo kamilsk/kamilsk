@@ -18,7 +18,7 @@ project ideas to life, while staying close to the code.
 | Date         | Project                     | Releases                           | Notes                                     |
 |:-------------|:----------------------------|:-----------------------------------|:------------------------------------------|
 | 2026-11-26   | 👨‍🔧 [maintainer][]           | [v0.6.0][om060]                    | Reviews in one form, from your agent      |
-| 2026-11-26   | 📚 [skills-action][]        | [v0.2.0][osa020], [v0.2.1][osa021] | One plugin now carries several skills     |
+| ↳            | 📚 [skills-action][]        | [v0.2.0][osa020], [v0.2.1][osa021] | One plugin now carries several skills     |
 | 2026-11-25   | 👨‍🔧 [maintainer][]           | [v0.5.1][om051], [v0.5.2][om052]   | Hub for your account, fixes as promised   |
 | 2026-11-24   | 🍣 [sushi][]                | [v0.3.0][os030], [v0.3.1][os031]   | Your model and settings, in one window    |
 | 2026-11-23   | 📰 [pulse][]                | [v0.2.0][op020], [v0.2.1][op021]   | Past mornings, and answers you can undo   |
@@ -33,15 +33,15 @@ project ideas to life, while staying close to the code.
 | 2026-11-07   | 👨‍🔧 [maintainer][]           | [v0.4.0][om040], [v0.4.1][om041]   | Calendar days as on the GitHub profile    |
 | 2026-10-22   | 🗃️ [indexit][]              | [v0.4.0][oi040]                    | Whole albums, photos shared across Macs   |
 | 2026-10-21   | 👨‍🔧 [maintainer][]           | [v0.3.0][om030]                    | One local hub for checkouts and issues    |
-| -            | 🗃️ [indexit][]              | [v0.3.1][oi031]                    | A dashboard of the photos on your Mac     |
+| ↳            | 🗃️ [indexit][]              | [v0.3.1][oi031]                    | A dashboard of the photos on your Mac     |
 | 2026-10-20   | 👨‍🔧 [maintainer][]           | [v0.2.1][om021]                    | Safer fetch, status summary, agent skill  |
-| -            | 🗃️ [indexit][]              | [v0.3.0][oi030]                    | Telegram photos that stay in your notes   |
+| ↳            | 🗃️ [indexit][]              | [v0.3.0][oi030]                    | Telegram photos that stay in your notes   |
 | 2026-10-19   | 👨‍🔧 [maintainer][]           | [v0.2.0][om020]                    | Checkout status and refresh from GitHub   |
 | 2026-10-18   | 🗃️ [indexit][]              | [v0.2.2][oi022], [v0.2.3][oi023]   | People and bot cards, skill checks        |
-| -            | 📚 [skills-action][]        | [v0.1.0][osa010], [v0.1.1][osa011] | Tool releases publish their agent skills  |
+| ↳            | 📚 [skills-action][]        | [v0.1.0][osa010], [v0.1.1][osa011] | Tool releases publish their agent skills  |
 | 2026-10-06   | 🗃️ [indexit][]              | [v0.2.1][oi021]                    | Telegram chats by membership and role     |
 | 2026-10-04   | 🗃️ [indexit][]              | [v0.2.0][oi020]                    | Telegram channel cards and an agent skill |
-| -            | 📚 [skills][]               | init                               | Agent skills catalog for OctoLab tools    |
+| ↳            | 📚 [skills][]               | init                               | Agent skills catalog for OctoLab tools    |
 | 2026-10-02   | 🗃️ [indexit][]              | [v0.1.1][oi011], [v0.1.2][oi012]   | Telegram exports without duplicates       |
 | 2026-09-25   | 👨‍🔧 [maintainer][]           | [v0.1.0][om010]                    | Contribution calendar planning in CLI     |
 | 2026-09-23   | 🗃️ [indexit][]              | [v0.1.0][oi010]                    | Telegram chat export and media downloads  |
@@ -49,8 +49,8 @@ project ideas to life, while staying close to the code.
 | 2026-05-06   | 🗃️ [research/indexit][]     | init                               | Agent indexing and retrieval research     |
 | 2026-04-17   | ✊ [breakout][]             | [v0.2.0][ob020]                    | Telegram proxy with DPI bypass            |
 | **2023**     | ✨ [sparkle/service][]      | [v0.1.0][ss010]...[v0.3.1][ss031]  | Experiments with Sparkle CLI              |
-|              | 🖥️ [tact/web][]             | [v0.3.0][tw030]...[v0.4.0][tw040]  | Bug fixing and improvements               |
-|              | 📐 [octomation/go-module][] | [v1.0.0][ogm100]                   | First stable template version             |
+| ↳            | 🖥️ [tact/web][]             | [v0.3.0][tw030]...[v0.4.0][tw040]  | Bug fixing and improvements               |
+| ↳            | 📐 [octomation/go-module][] | [v1.0.0][ogm100]                   | First stable template version             |
 
 <!-- projects -->
 [breakout]:             https://github.com/octomation/breakout
