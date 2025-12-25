@@ -17,6 +17,12 @@ project ideas to life, while staying close to the code.
 
 | Date         | Project                     | Releases                           | Notes                                     |
 |:-------------|:----------------------------|:-----------------------------------|:------------------------------------------|
+| 2026-11-25   | 👨‍🔧 [maintainer][]           | [v0.5.1][om051], [v0.5.2][om052]   | Hub for your account, fixes as promised   |
+| 2026-11-24   | 🍣 [sushi][]                | [v0.3.0][os030], [v0.3.1][os031]   | Your model and settings, in one window    |
+| 2026-11-23   | 📰 [pulse][]                | [v0.2.0][op020], [v0.2.1][op021]   | Past mornings, and answers you can undo   |
+| 2026-11-22   | 🗃️ [indexit][]              | [v0.4.2][oi042]                    | QR login that finishes, a steadier line   |
+| 2026-11-21   | 👨‍🔧 [maintainer][]           | [v0.5.0][om050]                    | Down to checkouts, GitHub and the hub     |
+| 2026-11-20   | 📰 [pulse][]                | [v0.1.0][op010], [v0.1.1][op011]   | A morning paper of unseen GitHub trends   |
 | 2026-11-19   | 🍣 [sushi][]                | [v0.2.0][os020], [v0.2.1][os021]   | Caps Lock shows it, even over full screen |
 | 2026-11-18   | 🍣 [sushi][]                | [v0.1.0][os010], [v0.1.1][os011]   | A prompt composer one keystroke away      |
 | 2026-11-17   | 🤴 [vanity-action][]        | [v0.1.0][ova010]                   | Go modules publish themselves on release  |
@@ -49,6 +55,7 @@ project ideas to life, while staying close to the code.
 [indexit]:              https://github.com/octopot/indexit
 [maintainer]:           https://github.com/octomation/maintainer
 [octomation/go-module]: https://github.com/octomation/go-module
+[pulse]:                https://github.com/octomation/pulse
 [research/indexit]:     https://github.com/octolaba/indexit
 [research/obsidian]:    https://github.com/octolaba/obsidian
 [skills]:               https://github.com/octolab/skills
@@ -72,16 +79,26 @@ project ideas to life, while staying close to the code.
 [oi031]:  https://github.com/octopot/indexit/releases/tag/v0.3.1
 [oi040]:  https://github.com/octopot/indexit/releases/tag/v0.4.0
 [oi041]:  https://github.com/octopot/indexit/releases/tag/v0.4.1
+[oi042]:  https://github.com/octopot/indexit/releases/tag/v0.4.2
 [om010]:  https://github.com/octomation/maintainer/releases/tag/v0.1.0
 [om020]:  https://github.com/octomation/maintainer/releases/tag/v0.2.0
 [om021]:  https://github.com/octomation/maintainer/releases/tag/v0.2.1
 [om030]:  https://github.com/octomation/maintainer/releases/tag/v0.3.0
 [om040]:  https://github.com/octomation/maintainer/releases/tag/v0.4.0
 [om041]:  https://github.com/octomation/maintainer/releases/tag/v0.4.1
+[om050]:  https://github.com/octomation/maintainer/releases/tag/v0.5.0
+[om051]:  https://github.com/octomation/maintainer/releases/tag/v0.5.1
+[om052]:  https://github.com/octomation/maintainer/releases/tag/v0.5.2
+[op010]:  https://github.com/octomation/pulse/releases/tag/v0.1.0
+[op011]:  https://github.com/octomation/pulse/releases/tag/v0.1.1
+[op020]:  https://github.com/octomation/pulse/releases/tag/v0.2.0
+[op021]:  https://github.com/octomation/pulse/releases/tag/v0.2.1
 [os010]:  https://github.com/octopot/sushi/releases/tag/v0.1.0
 [os011]:  https://github.com/octopot/sushi/releases/tag/v0.1.1
 [os020]:  https://github.com/octopot/sushi/releases/tag/v0.2.0
 [os021]:  https://github.com/octopot/sushi/releases/tag/v0.2.1
+[os030]:  https://github.com/octopot/sushi/releases/tag/v0.3.0
+[os031]:  https://github.com/octopot/sushi/releases/tag/v0.3.1
 [osa010]: https://github.com/octomation/skills-action/releases/tag/v0.1.0
 [osa011]: https://github.com/octomation/skills-action/releases/tag/v0.1.1
 [ogm100]: https://github.com/octomation/go-module/releases/tag/v1.0.0
