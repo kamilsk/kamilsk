@@ -36,6 +36,7 @@ personal life can flourish.
 
 | Date         | Project                     | Releases                          | Notes                                     |
 |:-------------|:----------------------------|:----------------------------------|:------------------------------------------|
+| 2026-08-03   | 🪨 [research/obsidian][]    | -                                 | Create kanbal skill for Kanban plugin     |
 | 2026-08-01   | 🪨 [research/obsidian][]    | -                                 | Create Obsidian Developer skill           |
 | 2026-07-26   | 🪨 [research/obsidian][]    | -                                 | Create dataview skill for Dataview plugin |
 | 2026-07-25   | 🪨 [research/obsidian][]    | -                                 | Create tasks skill for Tasks plugin       |
